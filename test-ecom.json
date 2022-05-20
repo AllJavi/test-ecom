@@ -1,0 +1,3302 @@
+[
+    {
+        "pregunta": "En un receptor de comunicaciones por satelite a 14GHz con una banda de 50MHz,",
+        "opciones": [
+            "La temperatura de ruido de antena es superior a diez mil kelvin.",
+            "La temperatura de ruido de antena puede llegar a valores menores de 50K.",
+            "La temperatura de ruido de antena es siempre igual a 290K.",
+            "La temperatura de ruido de antena es igual a la temperatura fisica del lugar."
+        ],
+        "solucion": "1",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Cuando inyectamos dos portadoras de la misma potencia en un sistema lineal, los productos de intermodulacion estan 27dB por debajo de la señales de salida. Si la potencia de entrada aumenta 3dB,",
+        "opciones": [
+            "El nivel de los productos de intermodulacion aumenta 3dB.",
+            "Los productos de intermodulacion estaran 21dB por debajo de la señal de salida.",
+            "El nivel de los productos de intermodulacion no cambia.",
+            "Los productos de intermodulacion estaran 18dB por debajo de la potencia de salida."
+        ],
+        "solucion": "1",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "El filtro del lazo en un sintetizador con PLL debe ser:",
+        "opciones": [
+            "Un filtro paso alto con frecuencia de corte superior a la de referencia del PLL.",
+            "Un filtro paso bajo con frecuencia de corte inferior a la de referencia del PLL.",
+            "Un filtro paso banda centrado en la frecuencia de referencia del PLL.",
+            "Un filtro banda eliminada centrado en la frecuencia de referencia del PLL"
+        ],
+        "solucion": "1",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Si se quiere diseñar un sintetizador sin error de fase cuando este enganchado, entonces:",
+        "opciones": [
+            "Su funcion de transferencia debe ser de orden 1 tipo 1",
+            "Su funcion de transferencia de error debe de tener un cero en el origen",
+            "Su funcion de transferencia debe ser de orden 2 tipo 2",
+            "Cualquiera de los anteriores vale."
+        ],
+        "solucion": "2",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Un mezclador con unas perdidas de conversion del 8 dB y un aislamiento OL-FI de 30 dB tiene un OL de 10mW y una señal a la entrada de -40 dBm. entonces en la puerta de FI, su salida",
+        "opciones": [
+            "El nivel de cada producto de mezcla a la salida es -70dBm",
+            "El nivel de cada producto de mezcla a la salida es -20dBm",
+            "El nivel de OL a la salida es 2dBm",
+            "El nivel de OL a la salida es mayor que el de los productos de mezcla."
+        ],
+        "solucion": "3",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "El detector de fase que permite trabajar con mayor margen lineal de error de fase es:",
+        "opciones": [
+            "El detector digital de puerta OR-EX.",
+            "El detector analogico multiplicador.",
+            "El detector de doble modulo con divisor programable.",
+            "El detector digital de fase-frecuencia."
+        ],
+        "solucion": "3",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Un mezclador doblemente equilibrado mejora, respecto de uno simple, las siguientes caracteristicas:",
+        "opciones": [
+            "Reduce las perdidas de conversion en 6dB.",
+            "Aumenta el aislamiento entre las puertas de OL y FI",
+            "Permite reducir la potencia de oscilador local a la mitad.",
+            "Aumenta las perdidas en la banda imagen."
+        ],
+        "solucion": "1",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "En un conversor hacia abajo la frecuencia del oscilador es 95MHz y el filtro de salida se centra en 30MHz.",
+        "opciones": [
+            "La banda imagen siempre esta por encima del OL y en este caso es 125MHz.",
+            "A la salida tendremos una espuria de 65MHz.",
+            "La banda imagen esta en 35MHz.",
+            "Si la señal esta en 125MHz la banda imagen se centra en 65MHz."
+        ],
+        "solucion": "3",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "La temperatura de antena mide el ruido entregado por la antena al receptor y,",
+        "opciones": [
+            "Siempre es igual a la temperatura ambiente de 290K",
+            "El ruido de antena es nulo si la antena no tiene perdidas.",
+            "Depende fundamentalmente del ruido exterior captado por la antena.",
+            "Es un ruido blanco que depende solo del tipo de antena."
+        ],
+        "solucion": "2",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "En un receptor superheterodino sin rechazo de banda imagen:",
+        "opciones": [
+            "Se produce una distorsion no lineal que genera la frecuencia suma en el mezclador",
+            "Se produce una emision de la banda imagen en la antena",
+            "El ruido en el receptor se multiplica practicamente por dos",
+            "El ruido de antena es siempre mucho menor que el ruido del receptor"
+        ],
+        "solucion": "2",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Cuando la potencia de salida de un amplificador clase B es 60W, el rendimiento es 0.5. ¿Que potencia disipa cuando no hay señal a su entrada?",
+        "opciones": [
+            "30 W",
+            "60 W",
+            "0 W",
+            "120 W"
+        ],
+        "solucion": "2",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Los detectores de fase tipo multiplicador se caracterizan por:",
+        "opciones": [
+            "Por tener un valor de K d mayor que los activados por flanco",
+            "Ser los mas complicados y por eso estan mas limitados en frecuencia",
+            "Ser menos sensibles al ruido que los activados por flanco.",
+            "Porque solo funcionan con señales digitales. Lo siento, las dos respuestas son validas"
+        ],
+        "solucion": "0",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Para aumentar la atenuacion en la banda eliminada de un filtro Butterworth con una banda del 3% a -3dB",
+        "opciones": [
+            "Debo seleccionar un filtro con mejor factor de calidad en las cavidades.",
+            "Debo seleccionar un filtro con una banda de paso mas pequeña .",
+            "Debo buscar un filtro con un numero mayor de secciones.",
+            "Debo comprar dos filtros y ponerlos en cascada"
+        ],
+        "solucion": "2",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Un modulador I&Q de señales en fase y cuadratura,",
+        "opciones": [
+            "Emplea un solo mezclador doblemente equilibrado trabajando en saturacion.",
+            "Modula dos portadoras ortogonales en FM y obtiene la diferencia.",
+            "Realiza dos modulaciones DBL en fase y suma las señales obtenidas.",
+            "Modula en DBL dos portadoras ortogonales y suma el resultado."
+        ],
+        "solucion": "3",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Para construir un VCO entre 100 y 200MHz utilizaremos:",
+        "opciones": [
+            "Un resonador de cavidad en guia de onda con diodo varactor.",
+            "Resonadores YIG de microondas.",
+            "Un circuito integrado digital aestable.",
+            "Circuitos resonantes LC con diodo varactor."
+        ],
+        "solucion": "3",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "La potencia maxima de un transmisor esta normalmente limitada por.",
+        "opciones": [
+            "El rendimiento y la capacidad de disipacion del amplificador de potencia.",
+            "El indice de modulacion de la señal a transmitir.",
+            "La ganancia de la antena utilizada en el transmisor.",
+            "La tension de polarizacion del amplificador de potencia."
+        ],
+        "solucion": "0",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "Se denomina banda ocupada por un transmisor a:",
+        "opciones": [
+            "La banda asignada al servicio donde se concentra la mayor parte de la potencia.",
+            "El doble del ancho de banda nominal de la señal modulada.",
+            "El ancho de banda del ultimo filtro del transmisor.",
+            "El doble de la banda base de la señal de modulacion o de la frecuencia mas alta de modulacion."
+        ],
+        "solucion": "0",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "La mision fundamental del filtro de RF en un receptor es:",
+        "opciones": [
+            "Eliminar la banda imagen y potenciales interferencias de alto nivel.",
+            "Reducir la potencia de ruido de entrada.",
+            "Evitar realimentaciones entre los amplificadores de RF y FI.",
+            "Definir la banda de recepcion y eliminar cualquier otra señal."
+        ],
+        "solucion": "0",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "El control automatico de ganancia en un receptor es un sistema que permite,",
+        "opciones": [
+            "Mejorar el margen dinamico de entrada manteniendo la linealidad del receptor.",
+            "Controlar la ganancia del receptor en funcion de las interferencias del sistema.",
+            "Aumentar el margen de sintonia del receptor hasta mas de una octava.",
+            "Limitar el nivel de modulacion residual de AM en receptores de FM."
+        ],
+        "solucion": "0",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "En una modulacion de AM",
+        "opciones": [
+            "La potencia de pico es siempre igual a la potencia media.",
+            "El cociente de la potencia media y la de portadora depende exclusivamente de",
+            "El cociente de la potencia media y la de portadora depende exclusivamente del indice de modulacion.",
+            "Ninguna de las anteriores."
+        ],
+        "solucion": "3",
+        "examen": "2013jul"
+    },
+    {
+        "pregunta": "¿Cuanto vale la figura de ruido de un cable de 10m de longitud y 0.1dB/m de atenuacion?",
+        "opciones": [
+            "10 dB",
+            "1 dB",
+            "0.1 dB/m",
+            "Dependera de su temperatura fisica"
+        ],
+        "solucion": "3",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "La distorsion de señales en un sistema es no-lineal si se cumple:",
+        "opciones": [
+            "Que modifica la amplitud y fase de forma diferente para cada componente espectral.",
+            "Que depende de la amplitud de la señal a la entrada del sistema.",
+            "Que el tiempo de retardo no es constante con la frecuencia.",
+            "Que distorsiona las señales digitales pero no las analogicas."
+        ],
+        "solucion": "1",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "Si el nivel del segundo armonico de un amplificador es -30dBc para una potencia nominal de 2W, entonces",
+        "opciones": [
+            "Para 1W sera de -15dBm",
+            "Para 1W sera de -27dBm",
+            "Para 1W sera de -3dBm",
+            "Para 1W sera de -90dBm"
+        ],
+        "solucion": "2",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "Las Perdidas de Retorno o Return Losses (RL) a la entrada de un amplificador es:",
+        "opciones": [
+            "La relacion entre la potencia incidente a la entrada y la potencia reflejada",
+            "La potencia que se pierde por mala adaptacion a la entrada.",
+            "Las perdidas debidas a efecto disipativo de las redes de adaptacion de entrada.",
+            "Las perdidas en las redes de realimentacion del amplificador."
+        ],
+        "solucion": "0",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "El ruido de fase de un oscilador se mide en dBc/Hz que indica en dB:",
+        "opciones": [
+            "Culombios de carga en la cavidad por unidad de ancho de banda.",
+            "Potencia por unidad de ancho de banda dividida por la potencia total.",
+            "Desviacion maxima de frecuencia para frecuencia moduladora de un Hz..",
+            "Desviacion maxima de fase cuando filtramos con un Hz de ancho de banda."
+        ],
+        "solucion": "1",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "En un sintetizador el ruido de fase del VCO se transmite a la salida",
+        "opciones": [
+            "Directamente porque la salida del VCO es la salida del sintetizador",
+            "Filtrado por la funcion de transferencia de error de fase del sintetizador.",
+            "Filtrado por la funcion de transferencia del filtro del sintetizador",
+            "Filtrado por la funcion de transferencia de fase del sintetizador."
+        ],
+        "solucion": "1",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "En un sintetizador de frecuencia con PLL y divisor programable, el filtro paso bajo...",
+        "opciones": [
+            "Su unica funcion es eliminar los armonicos de la frecuencia de entrada.",
+            "No es necesario si se trabaja con divisores programables.",
+            "Determina en gran medida la funcion de transferencia del PLL.",
+            "Estabiliza el VCO eliminando su ruido de fase."
+        ],
+        "solucion": "2",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "Las componentes principales a la salida de un mezclador son:",
+        "opciones": [
+            "Dos señales cuyas frecuencias son el cociente y producto de las de entrada.",
+            "Dos señales cuyas frecuencias son la suma y diferencia de las de entrada",
+            "Dos señales cuyas frecuencias son las mismas que las de entrada.",
+            "Las combinaciones de tercer orden de las señales de entrada."
+        ],
+        "solucion": "1",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "Si las perdidas de conversion de un mezclador son L=8dB con +10mW en LO, y el aislamiento LO-FI es 20dB,",
+        "opciones": [
+            "La potencia de OL local en la puerta de FI es de +2dBm.",
+            "La potencia del oscilador en la puerta de FI es -10dBm.",
+            "La potencia del oscilador local esta 20dB por debajo de la potencia de señal.",
+            "La potencia de señal a la salida es de -28dBm."
+        ],
+        "solucion": "1",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "La temperatura equivalente de un mezclador en simple banda (TSSB) se define,",
+        "opciones": [
+            "Poniendo un filtro a la entrada del mezclador para que no entre ruido en la banda imagen.",
+            "Suponiendo que el ruido interno del mezclador entra por la banda de señal y por la imagen.",
+            "Suponiendo que el ruido interno del mezclador entra solo por la banda de señal.",
+            "Poniendo un generador de ruido a la entrada con esa temperatura de ruido."
+        ],
+        "solucion": "2",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "El ruido de fase del oscilador de referencia en la banda de paso de un sintetizador PLL,",
+        "opciones": [
+            "Queda multiplicado a la salida por el factor de multiplicacion de frecuencia.",
+            "Se transmite directamente a la salida sin modificacion alguna.",
+            "Se reduce a la salida en un factor igual a la relacion de la frecuencia de referencia y la banda del PLL.",
+            "A la salida queda dividido por el factor del divisor en el lazo de realimentacion."
+        ],
+        "solucion": "0",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "Si se utiliza un mezclador doblemente equilibrado con Lconv=8 dB para modular en DBL una portadora con un señal de -10dBm en banda base",
+        "opciones": [
+            "La potencia de la señal de salida es 8dBm",
+            "La potencia de la señal de salida -18dBm",
+            "La potencia de la señal de salida es -15dBm",
+            "La potencia de la señal de salida es -36dBm"
+        ],
+        "solucion": "2",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "La figura de ruido de un amplificador se define como la relacion entre las potencias de ruido a la salida considerando o no el ruido interno cuando:",
+        "opciones": [
+            "La potencia de ruido a la entrada es nula.",
+            "El generador de ruido a la entrada esta a la temperatura ambiente.",
+            "La relacion señal a ruido a la entrada es la unidad.",
+            "El generador de ruido a la entrada esta a 293k."
+        ],
+        "solucion": "3",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "Un modulador de AM a nivel alto posee las siguientes ventajas:",
+        "opciones": [
+            "Permite una sintonia de frecuencia en un margen muy amplio.",
+            "El nivel de la señal moduladora es muy bajo.",
+            "Ofrece mejor rendimiento en potencia.",
+            "No genera armonicos a su salida."
+        ],
+        "solucion": "2",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "Dos tonos en un amplificador dan en total 100mW a la salida con intermodulacion 40dB menor.",
+        "opciones": [
+            "El PI3 a la salida es 50dBm",
+            "El PI3 a la salida es 40dBm",
+            "El PI3 a la salida es 60dBm",
+            "El PI3 a la salida es 56dBm"
+        ],
+        "solucion": "1",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "La deteccion coherente de señales moduladas en banda lateral unica (BLU) se puede realizar...",
+        "opciones": [
+            "Generando la frecuencia caracteristica por filtrado de la señal de entrada con un PLL.",
+            "Con un circuito formado por un doble detector y un desfasador de Hilbert.",
+            "Con un detector de envolvente.",
+            "Solo si se transmite un piloto de la frecuencia caracteristica de modulacion."
+        ],
+        "solucion": "3",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "En un amplificador sintonizado de varias etapas iguales, el ancho de banda a -3dB...",
+        "opciones": [
+            "Solo depende de la ultima etapa amplificadora.",
+            "Disminuye al aumentar el numero de etapas.",
+            "Aumenta al aumentar el factor de calidad de los circuitos de sintonia.",
+            "Es independiente del numero de etapas."
+        ],
+        "solucion": "1",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "Cuando eliminamos el filtro de RF en un receptor superheterodino, aumenta el ruido porque:",
+        "opciones": [
+            "Se multiplica por dos el ruido de la antena, el amplificador de RF y el conversor.",
+            "Se multiplica por dos la contribucion del ruido del amplificador de FI.",
+            "Se multiplica por dos la contribucion al ruido de la antena y el amplificador de RF.",
+            "En realidad no aumenta el ruido del receptor."
+        ],
+        "solucion": "2",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "El control automatico de ganancia en un receptor es un sistema que se implementa para:",
+        "opciones": [
+            "Limitar el nivel de modulacion residual de AM en receptores de FM.",
+            "Aumentar la ganancia del receptor en funcion de las interferencias del sistema.",
+            "Aumentar el margen dinamico de entrada manteniendo la linealidad del receptor.",
+            "Aumentar el margen de sintonia del receptor hasta mas de una octava."
+        ],
+        "solucion": "2",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "Un amplificador clase A tiene un rendimiento del 50% con una potencia de salida de 5w. ¿Que potencia disipa cuando no hay señal a su entrada?",
+        "opciones": [
+            "0 W.",
+            "5 W.",
+            "10 W.",
+            "20 W."
+        ],
+        "solucion": "2",
+        "examen": "2013jun"
+    },
+    {
+        "pregunta": "El oscilador necesario para detectar BLU de forma coherente,",
+        "opciones": [
+            "Se puede obtener por filtrado de la señal en la banda lateral deseada.",
+            "Se obtiene con un multiplicador de frecuencia y un PLO.",
+            "Solo se puede obtener si se incluye un piloto de portadora.",
+            "Se puede obtener con un oscilador de cristal muy estable."
+        ],
+        "solucion": "2",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "Un amplificador clase B tiene un rendimiento del 60% con una potencia de salida de 60w. ¿Que potencia disipa cuando no hay señal a su entrada?",
+        "opciones": [
+            "0 W.",
+            "40 W.",
+            "100 W.",
+            "200 W."
+        ],
+        "solucion": "0",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "El margen dinamico de un receptor en dB se obtiene como la diferencia en dBm de:",
+        "opciones": [
+            "La potencia maxima de entrada y la ganancia del receptor.",
+            "La potencia minima de entrada y la potencia de ruido equivalente.",
+            "La maxima potencia de entrada y la potencia maxima en el detector..",
+            "La maxima potencia de entrada y la minima potencia de entrada."
+        ],
+        "solucion": "3",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "En un sintetizador de frecuencia con PLL y divisor programable, el salto minimo de frecuencia es:",
+        "opciones": [
+            "Cero, la frecuencia puede variarse de forma continua.",
+            "Igual a la frecuencia utilizada como referencia a la entrada.",
+            "La frecuencia de referencia dividida por la ganancia de lazo del PLL.",
+            "La frecuencia de referencia multiplicada por el factor de division en la rama de realimentacion."
+        ],
+        "solucion": "1",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "La banda imagen en un receptor superheterodino se situa en el espectro de frecuencia:",
+        "opciones": [
+            "A dos veces la frecuencia intermedia respecto de la señal deseada.",
+            "A una distancia igual a la frecuencia intermedia de la señal deseada.",
+            "En la frecuencia del oscilador local utilizado.",
+            "En una frecuencia negativa con igual valor absoluto que la frecuencia deseada."
+        ],
+        "solucion": "0",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "Si la potencia de salida de un amplificador es 20dB menor que PI3,",
+        "opciones": [
+            "Los productos de intermodulacion de dos tonos estan 40 dB por debajo de la potencia de salida.",
+            "Los productos de intermodulacion de dos tonos estan 30 dB por debajo de PI3.",
+            "Los productos de intermodulacion de dos tonos estan 50dB por debajo de PI3.",
+            "Los productos de intermodulacion de dos tonos estan 30dB por debajo de la potencia de salida."
+        ],
+        "solucion": "0",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "Un atenuador de 2dB a la entrada de un receptor de radio reduce la relacion (S/N) en 2dB...",
+        "opciones": [
+            "Siempre, independiente de la temperatura fisica del atenuador y del generador equivalente.",
+            "Solo si el atenuador esta a una temperatura fisica de 290k",
+            "Solo si la antena tiene una temperatura equivalente de 290k",
+            "Solo si la temperatura de antena es de 290k y el atenuador esta a 290k."
+        ],
+        "solucion": "3",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "Que es la potencia de cresta de envolvente en una modulacion de AM?",
+        "opciones": [
+            "La potencia instantanea maxima de la señal.",
+            "La potencia maxima promediada en un periodo de portadora.",
+            "La potencia maxima promediada en el periodo minimo de moduladora.",
+            "La potencia maxima promediada en el periodo maximo de moduladora."
+        ],
+        "solucion": "1",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "La ventaja de un sintetizador con divisor de doble modulo frente a uno con prescaler fijo es que:",
+        "opciones": [
+            "No tiene ventajas, la frecuencia de referencia es mas alta y es mas caro.",
+            "Es mas facil filtrar la frecuencia de referencia y sus armonicos por ser mas alta.",
+            "El divisor de doble modulo permite reducir la frecuencia de referencia.",
+            "Permite reducir el ruido de fase del VCO a la salida del sintetizador."
+        ],
+        "solucion": "1",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "El ruido de antena apuntando al cielo toma valores muy bajos...",
+        "opciones": [
+            "En muy baja frecuencia VLF.",
+            "En frecuencias de microondas SHF.",
+            "En sistemas con modulacion digital.",
+            "El ruido de antena siempre vale 290K."
+        ],
+        "solucion": "1",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "La temperatura equivalente de ruido del filtro de RF de un receptor:",
+        "opciones": [
+            "Es independiente de su temperatura fisica",
+            "Disminuye a medida que aumentan las perdidas del filtro",
+            "Es igual a T0.",
+            "Es nula si el filtro no tiene perdidas."
+        ],
+        "solucion": "3",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "En un modulador de FM basado en un PLL sintetizador, la desviacion de frecuencia de la señal modulada en la entrada del detector de fase es igual a",
+        "opciones": [
+            "La desviacion de frecuencia de la señal modulada",
+            "La desviacion de frecuencia de la señal modulada dividida por el factor de division del sintetizador",
+            "La desviacion de frecuencia de la señal modulada multiplicada por el factor de division del sintetizador",
+            "La desviacion de frecuencia de la señal modulada mas la frecuencia maxima de la señal en banda base"
+        ],
+        "solucion": "1",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "El ruido de fase de un oscilador de cuarzo en frecuencias cercanas a la de oscilacion",
+        "opciones": [
+            "Es mayor que el ruido de fase de un oscilador a diodo varactor",
+            "Es menor que el ruido de fase de un oscilador a diodo varactor",
+            "Depende de la temperatura equivalente de ruido del dispositivo activo del oscilador",
+            "Ninguna de las anteriores es cierta"
+        ],
+        "solucion": "1",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "Si la potencia de salida en el punto de compresion a 1dB de un amplificador de 20 dB de ganancia es 10 dBm,",
+        "opciones": [
+            "La potencia de entrada para el punto de compresion a 1dB es -9 dBm",
+            "La potencia de saturacion es 9 dBm",
+            "La potencia de entrada para el punto de compresion a 1dB es -10 dBm",
+            "La potencia de saturacion es 20 dBm"
+        ],
+        "solucion": "0",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "Los PLL sintetizadores que emplean un mezclador en la rama realimentada se emplean porque:",
+        "opciones": [
+            "Son menos ruidosos que los que no incluyen el mezclador",
+            "Permiten trabajar con frecuencias de referencia mas altas",
+            "Permiten sintetizar frecuencias de valor superior a las que soportan los divisores fijos",
+            "Permiten trabajar con VCO de frecuencia menor a la frecuencia de sintesis."
+        ],
+        "solucion": "2",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "Cuando se inyectan dos tonos de igual potencia a la entrada de un dispositivo no lineal",
+        "opciones": [
+            "No se generan nuevas componentes de frecuencia.",
+            "unicamente aparecen a la salidas los batidos suma y diferencia de las señales de entrada",
+            "unicamente aparecen a la salidas los batidos suma y diferencia de las señales de entrada y las señales originales",
+            "Ninguna de las anteriores es cierta."
+        ],
+        "solucion": "3",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "La diferencia fundamental entre distorsion lineal y no lineal es que:",
+        "opciones": [
+            "En la distorsion lineal no aparecen nuevas componentes de frecuencia y en la no lineal si.",
+            "La distorsion no lineal se recupera con ecualizadores.",
+            "La distorsion no lineal se debe a comportamientos no ideales de los dispositivos.",
+            "La distorsion lineal se debe a la presencia de dispositivos activos en los equipos."
+        ],
+        "solucion": "0",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "El filtrado de la frecuencia imagen:",
+        "opciones": [
+            "Debe hacerse en la etapa de frecuencia intermedia del receptor.",
+            "Debe hacerse a continuacion del modulador, en trasmision",
+            "Debe hacerse antes del mezclador que convierte la señal de RF en FI, en el receptor",
+            "No es necesario porque es una interferencia que no afecta a la calidad del servicio."
+        ],
+        "solucion": "2",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "En un transmisor se emplea el CAG para",
+        "opciones": [
+            "No es necesario, ya que interesa transmitir siempre la maxima potencia posible",
+            "El CAG se emplea unicamente en receptores para poder trabajar con todo el margen dinamico del receptor y del detector",
+            "Se emplea unicamente para controlar la señal de entrada al amplificador de FI.",
+            "Se puede emplear para controlar el nivel de la señal en banda base a la entrada del modulador"
+        ],
+        "solucion": "3",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "En un modulador AM a alto nivel,",
+        "opciones": [
+            "El amplificador de potencia no lineal unicamente amplifica la señal modulada",
+            "El amplificador de potencia no lineal unicamente amplifica la portadora",
+            "El amplificador de potencia no lineal amplifica la señal modulada y la portadora",
+            "No se emplean amplificadores de potencia no lineales en modulacion AM a alto nivel"
+        ],
+        "solucion": "1",
+        "examen": "2014jul"
+    },
+    {
+        "pregunta": "Un PLL (Lazo Enganchado en Fase) es un circuito realimentado que permite obtener una señal a su salida que...",
+        "opciones": [
+            "Tiene la misma modulacion que la de entrada pero a otra frecuencia portadora.",
+            "Sigue todas las variaciones de fase de la de entrada pero no las de amplitud.",
+            "Sigue las variaciones lentas de fase, contenidas en una banda equivalente paso bajo.",
+            "Sigue las variaciones rapidas de fase, contenidas en una banda equivalente paso alto."
+        ],
+        "solucion": "2",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "¿Que significa que una amplificador tiene una ROE a la entrada igual a 2?",
+        "opciones": [
+            "Que su ganancia se divide por dos.",
+            "Que la potencia reflejada es el doble que la transmitida.",
+            "Que hay una adaptacion perfecta de impedancias.",
+            "Ninguna de las anteriores es cierta."
+        ],
+        "solucion": "3",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "Un amplificador tiene un punto de compresion a 1dB de 15dBm, una potencia de saturacion de 17dBm y una ganancia de 20dB.",
+        "opciones": [
+            "Para una potencia de entrada de -30dBm, la potencia de salida es de -10dBm.",
+            "Para una potencia de entrada de -4dBm, la potencia de salida es de 15 dBm.",
+            "Para una potencia de entrada de 5 dBm, la potencia de salida es de 17dBm.",
+            "Todas las anteriores son ciertas."
+        ],
+        "solucion": "3",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "Los ecos en un sistema de transmision por radio generan una distorsion en la señal que...",
+        "opciones": [
+            "Es una distorsion lineal y se puede compensar con un ecualizador adecuado.",
+            "Es una distorsion no lineal que no puede compensarse.",
+            "Solo afecta a los sistemas digitales de alta velocidad.",
+            "Supone una generacion de armonicos a frecuencias multiplos de la de portadora."
+        ],
+        "solucion": "0",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "Cuando eliminamos el filtro de rechazo de la banda imagen en un receptor superheterodino, aumenta el ruido por:",
+        "opciones": [
+            "Se multiplica por dos solo la contribucion del ruido de antena.",
+            "Se multiplica por dos solo la contribucion al ruido del amplificador de RF.",
+            "Se multiplica por dos solo la contribucion al ruido del conversor.",
+            "Se multiplica por dos la contribucion al ruido de antena y amplificador de RF."
+        ],
+        "solucion": "3",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "Un atenuador de 3dB puesto a la entrada de un receptor...",
+        "opciones": [
+            "Reduce la señal en 3dB y no modifica el ruido.",
+            "Reduce la señal en 3dB y aumenta el ruido en 3dB",
+            "Reduce la señal en 3dB y reduce el ruido en 3dB.",
+            "Reduce la señal en 3dB y aumenta el ruido un nivel que depende de la Temperatura de antena."
+        ],
+        "solucion": "3",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "En un amplificador sintonizado con un circuito de sintonia simple, el ancho de banda medido a -3dB viene dado por:",
+        "opciones": [
+            "El factor de calidad dividido por la frecuencia de sintonia.",
+            "El producto del factor de calidad y la frecuencia de sintonia.",
+            "La frecuencia de sintonia dividida por el factor de calidad.",
+            "El inverso del producto del factor de calidad y la frecuencia de sintonia."
+        ],
+        "solucion": "2",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "La recuperacion de portadora en señales con modulacion BLU y piloto de portadora",
+        "opciones": [
+            "No es necesario recuperar la portadora para demodular.",
+            "Se hace con un PLL que filtra el ruido en banda estrecha.",
+            "Se hace con un filtro fijo de cristal.",
+            "Se utiliza un demodulador con Bucle de Costas."
+        ],
+        "solucion": "1",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "La saturacion afecta poco a las señales moduladas en FM monocanal de banda estrecha por:",
+        "opciones": [
+            "Ser una distorsion lineal que se puede ecualizar.",
+            "Por generar solo un rizado de amplitud que se elimina con limitadores.",
+            "En realidad afecta mucho si la señal es de banda muy estrecha.",
+            "Ser una distorsion no lineal que no afecta a la modulacion de fase."
+        ],
+        "solucion": "3",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "El punto de compresion de 1dB en un amplificador lineal es una medida de...",
+        "opciones": [
+            "Distorsion lineal de amplitud.",
+            "Saturacion del amplificador.",
+            "Distorsion armonica en el amplificador.",
+            "Conversion AM-PM en el amplificador."
+        ],
+        "solucion": "1",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "Para construir un VCO entre 10 y 11 GHz utilizaremos:",
+        "opciones": [
+            "Un resonador dielectrico con diodo varactor.",
+            "Resonadores LC con diodo varactor.",
+            "Un cristal de cuarzo con diodo varactor.",
+            "Un circuito integrado digital aestable."
+        ],
+        "solucion": "0",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "La estabilidad a corto plazo en la frecuencia de un oscilador se especifica como",
+        "opciones": [
+            "Modulacion por ruido de fase.",
+            "Rizado de la amplitud de salida.",
+            "Variacion de la potencia al variar la frecuencia de sintonia.",
+            "La variacion de la frecuencia en partes por millon por dia."
+        ],
+        "solucion": "0",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "¿Que tipo de amplificador utilizaria en la ultima etapa de un transmisor de FM, si se desea un muy alto rendimiento?",
+        "opciones": [
+            "Un amplificador clase A.",
+            "Un amplificador clase B.",
+            "Un amplificador clase C.",
+            "Un amplificador clase E."
+        ],
+        "solucion": "3",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "La funcion de transferencia del PLL relaciona en el espacio de Laplace...",
+        "opciones": [
+            "La tension de salida con la tension de entrada en la puerta de referencia.",
+            "La fase de la señal de salida con la fase de la señal de referencia.",
+            "La frecuencia de la señal de salida con la fase de la señal de entrada.",
+            "La fase de la señal de salida con la tension a la salida del detector de fase."
+        ],
+        "solucion": "1",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "¿Que se entiende por 'penetracion en la frecuencia intermedia' en un receptor superheterodino?",
+        "opciones": [
+            "Es la relacion entre las frecuencias de una señal interferente en la banda imagen y la señal deseada, que generan la misma FI.",
+            "Es la relacion entre la potencia de entrada en la frecuencia intermedia y de señal a la entrada del receptor que generan la misma potencia a la entrada del detector.",
+            "Es la relacion de potencias de entrada en la banda imagen y de señal que dan la misma potencia en el detector.",
+            "Es la relacion entre la potencia de una señal interferente en la banda intermedia que satura el receptor y la potencia de señal."
+        ],
+        "solucion": "1",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "El aislamiento entre las puertas de RF y FI de un mezclador medido en dB...",
+        "opciones": [
+            "Es igual a las perdidas de conversion.",
+            "Indica la atenuacion de una señal entrando por RF y saliendo por FI sin conversion.",
+            "Indica la atenuacion de una señal que entra por FI y sale por RF sin conversion.",
+            "Aumenta dos veces mas rapido que el nivel de señal de entrada medido en dBm"
+        ],
+        "solucion": "1",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "En un detector de FM mediante un lazo PLL, la puerta de entrada corresponde a la de señal de referencia y la de salida se toma en:",
+        "opciones": [
+            "La salida del detector de fase.",
+            "La entrada del VCO.",
+            "La salida del VCO.",
+            "La entrada del detector de fase."
+        ],
+        "solucion": "1",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "Las perdidas por disipacion en la banda de paso de un filtro paso banda...",
+        "opciones": [
+            "Aumentan al aumentar el factor de calidad de los resonadores.",
+            "Aumentan al aumentar el ancho de banda relativo del filtro.",
+            "Aumentan al aumentar el numero de etapas del filtro.",
+            "Aumentan al disminuir la frecuencia central del filtro."
+        ],
+        "solucion": "2",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "La Potencia Isotropica Radiada Equivalente (PIRE o EIRP) es la potencia que...",
+        "opciones": [
+            "Habria que entregar a una antena isotropa para dar la misma intensidad de radiacion.",
+            "Entrega el amplificador de potencia a la antena.",
+            "La antena entrega al amplificador de bajo ruido en un receptor isotropo.",
+            "El producto de la potencia radiada por la antena por la ganancia del amplificador de potencia."
+        ],
+        "solucion": "0",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "La banda imagen en un receptor superheterodino se situa en el espectro de frecuencia:",
+        "opciones": [
+            "A dos veces la frecuencia intermedia respecto de la señal deseada.",
+            "A una distancia igual a la frecuencia intermedia de la señal deseada.",
+            "En la frecuencia del oscilador local utilizado.",
+            "En una frecuencia negativa con igual valor absoluto que la frecuencia deseada."
+        ],
+        "solucion": "0",
+        "examen": "2014jun"
+    },
+    {
+        "pregunta": "Un atenuador de 3dB a 350 K puesto a la entrada de un receptor de temperatura equivalente Te=500k...",
+        "opciones": [
+            "Aumenta la temperatura equivalente de ruido hasta 850K.",
+            "Reduce la temperatura equivalente de ruido hasta 250K.",
+            "Aumenta la temperatura equivalente de ruido hasta 1350K.",
+            "La temperatura de ruido no se modifica y solo cambia la ganancia."
+        ],
+        "solucion": "2",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "Una señal modulada en QPSK se hace pasar por un amplificador saturado. La distorsion es...",
+        "opciones": [
+            "Una distorsion lineal que se puede ecualizar.",
+            "Produce solo un rizado de amplitud que se elimina con limitadores.",
+            "Es una distorsion no lineal que afecta mucho a la modulacion QPSK.",
+            "Es una distorsion no lineal que no afecta a la modulacion de fase."
+        ],
+        "solucion": "3",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "El punto de cruce de intermodulacion en un amplificador lineal es una medida de...",
+        "opciones": [
+            "Distorsion lineal de fase y frecuencia.",
+            "La generacion de mezclas de tercer orden.",
+            "Distorsion armonica en el amplificador.",
+            "Conversion AM-PM en el amplificador."
+        ],
+        "solucion": "1",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "Un PLL (Lazo Enganchado en Fase) es un circuito realimentado que permite obtener una señal a su salida que...",
+        "opciones": [
+            "Tiene la misma modulacion que la de entrada pero a otra frecuencia portadora.",
+            "Sigue todas las variaciones de fase de la de entrada pero no las de amplitud.",
+            "Sigue las variaciones lentas de fase, contenidas en una banda equivalente paso bajo.",
+            "Sigue las variaciones rapidas de fase, contenidas en una banda equivalente paso alto."
+        ],
+        "solucion": "2",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "Un amplificador tiene una ganancia de 30dB, un punto de compresion a 1dB de 19dBm y una potencia de saturacion de 22dBm.",
+        "opciones": [
+            "Para una potencia de entrada de -90 dBm, la potencia de salida es de -60 dBm.",
+            "Para una potencia de entrada de -10 dBm, la potencia de salida es de 20 dBm.",
+            "Para una potencia de entrada de 0 dBm, la potencia de salida es de 30 dBm.",
+            "Todas las anteriores son ciertas."
+        ],
+        "solucion": "0",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "Las reflexiones multiples en un cable de antena generan una distorsion en la señal que...",
+        "opciones": [
+            "Es una distorsion no lineal que no puede compensarse.",
+            "Es una distorsion lineal y se puede compensar con un ecualizador adecuado.",
+            "Solo afecta a los sistemas digitales de alta velocidad de transmision.",
+            "Supone una generacion de productos de intermodulacion entre portadoras."
+        ],
+        "solucion": "1",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "La recuperacion de portadora en señales con modulacion BPSK...",
+        "opciones": [
+            "No es necesaria para demodular.",
+            "Se hace con un bucle de Costas.",
+            "Se hace con un filtro fijo de cristal.",
+            "Se utiliza un PLL de banda muy estrecha."
+        ],
+        "solucion": "1",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "Para construir un VCO entre 10 y 15 GHz utilizaremos:",
+        "opciones": [
+            "Un resonador dielectrico con diodo varactor.",
+            "Resonadores LC con diodo varactor.",
+            "Un cristal de cuarzo con diodo varactor.",
+            "Resonador en guia de onda con diodo varactor."
+        ],
+        "solucion": "0",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "La estabilidad a corto plazo en la frecuencia de un oscilador se especifica como",
+        "opciones": [
+            "Rizado de la amplitud de salida.",
+            "Variacion de la potencia al variar la frecuencia de sintonia.",
+            "Ruido de fase.",
+            "La variacion de la frecuencia en partes por millon por dia."
+        ],
+        "solucion": "2",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "¿Que tipo de amplificador utilizaria en la ultima etapa de un transmisor de satelite de 20 portadoras, si se desea un alto rendimiento?",
+        "opciones": [
+            "Un amplificador clase A.",
+            "Un amplificador clase B.",
+            "Un amplificador clase C.",
+            "Un amplificador clase E."
+        ],
+        "solucion": "1",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "Las perdidas por disipacion en la banda de paso de un filtro paso banda de microondas...",
+        "opciones": [
+            "Aumentan al aumentar el ancho de banda relativo del filtro.",
+            "Disminuyen al aumentar el factor de calidad de los resonadores.",
+            "Aumentan al reducir el numero de secciones del filtro.",
+            "Disminuyen al aumentar la frecuencia central del filtro."
+        ],
+        "solucion": "1",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "¿Que se entiende por 'penetracion en la banda imagen' en un receptor superheterodino?",
+        "opciones": [
+            "Es la relacion entre las frecuencias de señal e imagen, que generan la misma FI.",
+            "La relacion de potencia en la banda imagen y de señal que generan la misma potencia en el detector.",
+            "La potencias de entrada en la banda imagen que satura el receptor.",
+            "La potencia medida en la banda imagen producida por mezclas del oscilador con la señal deseada."
+        ],
+        "solucion": "1",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "¿Que significa que un amplificador tiene una ROE (VSWR) a la entrada igual a 3?",
+        "opciones": [
+            "Que la figura de ruido es igual a 3dB.",
+            "Que la potencia reflejada es el triple que la transmitida.",
+            "Que hay una adaptacion de impedancias para maxima transferencia de potencia.",
+            "Que el coeficiente de reflexion es igual a 0.5 ."
+        ],
+        "solucion": "3",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "El filtro de rechazo de la banda imagen en un receptor superheterodino, es necesario porque",
+        "opciones": [
+            "Permite una buena adaptacion de potencia con la antena.",
+            "Evita la saturacion del receptor cuando los niveles de señal son muy altos.",
+            "Evita la penetracion de señales en la banda de frecuencia intermedia.",
+            "Reduce el ruido procedente de la antena y de etapas anteriores al filtro."
+        ],
+        "solucion": "3",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "La funcion de transferencia del PLL relaciona, en el espacio de Laplace, ...",
+        "opciones": [
+            "La tension de salida del VCO con la tension de entrada en la puerta de referencia del DF.",
+            "La fase de la señal de salida del VCO con la fase de la señal de referencia en el DF.",
+            "La frecuencia de la señal de salida del VCO con la tension a la salida del DF.",
+            "La fase de la señal de salida del VCO con la tension a la salida del DF."
+        ],
+        "solucion": "1",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "El aislamiento OL-FI de un mezclador medido en dB...",
+        "opciones": [
+            "Es igual a las perdidas de conversion.",
+            "Indica la atenuacion del OL saliendo por FI.",
+            "Indica la atenuacion de una señal que entra por FI y sale por OL en la frecuencia de FI.",
+            "Mide la reflexion de una señal en la banda de FI aplicada al puerto de OL."
+        ],
+        "solucion": "1",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "En un PLL se denomina margen de mantenimiento estatico:",
+        "opciones": [
+            "El margen de frecuencia de variacion lenta sin que el PLL se desenganche.",
+            "Le salto maximo de frecuencia que se puede hacer sin que el PLL se desenganche.",
+            "La temperatura maxima de almacenamiento.",
+            "La maxima variacion de la tension de polarizacion sin que se rompa."
+        ],
+        "solucion": "0",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "En un receptor superheterodino, la banda imagen y la de señal distan en el espectro de frecuencia:",
+        "opciones": [
+            "Dos veces la frecuencia intermedia.",
+            "La frecuencia intermedia.",
+            "La frecuencia del oscilador local.",
+            "Dos veces la frecuencia de señal."
+        ],
+        "solucion": "0",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "En un detector de FM mediante un lazo PLL, la puerta de entrada corresponde a la de señal de referencia y la de salida se toma en:",
+        "opciones": [
+            "La salida del detector de fase.",
+            "La entrada del VCO.",
+            "La salida del VCO.",
+            "La entrada del detector de fase."
+        ],
+        "solucion": "1",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "La Potencia Isotropica Radiada Equivalente (PIRE o EIRP) es...",
+        "opciones": [
+            "La potencia radiada por una antena isotropa para dar la misma intensidad de radiacion.",
+            "La potencia que entrega el amplificador isotropico a la antena.",
+            "La potencia que la antena entrega al amplificador de bajo ruido en un receptor isotropo.",
+            "El producto de la potencia entregada a la antena por la ganancia del amplificador de potencia."
+        ],
+        "solucion": "0",
+        "examen": "2015jun"
+    },
+    {
+        "pregunta": "En un transmisor homodino:",
+        "opciones": [
+            "La frecuencia de RF de salida es el batido suma entre la frecuencia auxiliar de OL y la frecuencia portadora de la señal modulada",
+            "La frecuencia de RF de salida es la de la señal a la salida del modulador",
+            "La frecuencia de RF de salida es el batido diferencia entre la frecuencia auxiliar de OL y la frecuencia portadora de la señal modulada",
+            "La frecuencia de RF de salida es el batido diferencia entre la frecuencia portadora de la señal modulada y la frecuencia auxiliar de OL"
+        ],
+        "solucion": "1",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Cuando a la entrada de un amplificador de ganancia 10 dB se inyecta un tono con una potencia de 1mW se mide a la salida un nivel de potencia de -30 dBm en el armonico de orden 4. Cuando dicho armonico tenga un nivel de potencia de -14 dBm, la potencia de entrada es de:",
+        "opciones": [
+            "4 dBm",
+            "14 dBm",
+            "16 dBm",
+            "34 dBW"
+        ],
+        "solucion": "0",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "La figura de ruido de un amplificador se define como la relacion entre la potencia de ruido a la salida del amplificador dividida por la potencia de ruido que habria a la salida si el amplificador no fuese ruidoso cuando:",
+        "opciones": [
+            "Cuando se inyecta ruido con un amplificador de 10 dB de ganancia",
+            "Cuando se inyecta ruido con una antena a temperatura T0",
+            "Cuando se inyecta ruido unicamente en banda imagen con un generador a temperatura T0",
+            "Ninguna respuesta es correcta"
+        ],
+        "solucion": "3",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Si en un receptor con rechazo de imagen el ancho de banda del filtro de RF se reduce en un factor 2:",
+        "opciones": [
+            "La potencia de ruido a la entrada del detector se reduce en 3 dB",
+            "La sensibilidad no se ve afectada",
+            "La potencia de ruido a la entrada del receptor se divide por 2",
+            "La sensibilidad del receptor se divide por 2"
+        ],
+        "solucion": "1",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Una de las desventajas de un mezclador doblemente balanceado frente a un mezclador balanceado es que:",
+        "opciones": [
+            "Se eliminan mas productos de mezcla no deseados",
+            "Se necesita mas potencia de OL",
+            "Necesita circuitos hibridos para inyectar la señal",
+            "Todas las anteriores son ciertas"
+        ],
+        "solucion": "1",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "El mejor esquema para realizar la demodulacion de una señal modulada en BLU-I es:",
+        "opciones": [
+            "Un detector de envolvente",
+            "Un detector coherente basado en un elevador al cuadrado",
+            "Un detector coherente basado en PLL para señales BLU-I con portadora inyectada",
+            "Un detector coherente basado en PLL para señales BLU-S con portadora inyectada"
+        ],
+        "solucion": "2",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Las perdidas de un conversor hacia abajo se definen como:",
+        "opciones": [
+            "La diferencia entre la potencia de salida en los batidos suma y diferencia y la potencia de la señal de entrada",
+            "La diferencia entre la potencia de salida en el batido diferencia y la potencia de la señal de entrada",
+            "La diferencia entre la potencia de salida en el batido diferencia y la potencia de OL",
+            "La diferencia entre la potencia de salida en el batido suma y la potencia de OL"
+        ],
+        "solucion": "1",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Las perdidas de un mezclador en su margen de funcionamiento lineal:",
+        "opciones": [
+            "Dependen de la potencia de la señal a la entrada de mezclador",
+            "Dependen de la frecuencia del OL inyectado",
+            "Dependen de la potencia de OL inyectada",
+            "Dependen del ruido a la entrada del mezclador"
+        ],
+        "solucion": "2",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Un oscilador a cristal de cuarzo es un dispositivo que genera una señal de RF",
+        "opciones": [
+            "a su salida a partir de una señal de RF en su entrada",
+            "cuya frecuencia depende unicamente de la tension alterna de la señal a la entrada del oscilador",
+            "cuya potencia depende del Q del circuito resonante del oscilador",
+            "cuya frecuencia depende del modo de resonancia del cristal"
+        ],
+        "solucion": "3",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "En la etapa de potencia de un transmisor de 1 W de potencia de salida se emplea un amplificador clase C con un rendimiento del 70%. En ausencia de modulacion, la potencia disipada por el amplificador es de:",
+        "opciones": [
+            "1 W",
+            "0.3 W",
+            "0 W",
+            "0.7 W"
+        ],
+        "solucion": "2",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "En un sintetizador de doble modulo, la frecuencia de referencia maxima depende de :",
+        "opciones": [
+            "La frecuencia minima de sintesis",
+            "El valor de P",
+            "El salto entre frecuencias consecutivas",
+            "Todas las respuestas son correctas"
+        ],
+        "solucion": "3",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "La atenuacion de un filtro en la banda de paso, para un ancho de banda fijo, es directamente proporcional a:",
+        "opciones": [
+            "El factor de calidad de los resonadores",
+            "La impedancia nominal para la que se ha diseñado el filtro",
+            "La frecuencia central del filtro",
+            "La impedancia terminal del filtro"
+        ],
+        "solucion": "2",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Cuando a la entrada de un amplificador de ganancia 10 dB, P1dB 14 dBm y PSAT 14.7 dBm se inyecta un tono de 5 dBm, la potencia a la salida sera:",
+        "opciones": [
+            "14.7 dBm",
+            "15 dBm",
+            "14 dBm",
+            "13 dBm"
+        ],
+        "solucion": "2",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "La temperatura de ruido de un filtro de 3dB de perdidas a temperatura fisica es T0 es:",
+        "opciones": [
+            "0 K",
+            "T0 K",
+            "2T0 K",
+            "3T0 K"
+        ],
+        "solucion": "1",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "En un sintetizador de frecuencia basado en un PLL de orden 2 y tipo 2, la pulsacion propia del lazo:",
+        "opciones": [
+            "Es independiente de la frecuencia de sintesis",
+            "Solo depende de la constante del VCO",
+            "Disminuye al aumentar la frecuencia de sintesis",
+            "Aumenta al aumentar la frecuencia de sintesis"
+        ],
+        "solucion": "2",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "En un modulador de FM basado en PLL:",
+        "opciones": [
+            "La señal moduladora se inyecta en la entrada del detector de fase",
+            "La señal moduladora debe ser paso bajo respecto al ancho de banda del PLL",
+            "La señal moduladora se inyecta a la salida del detector de fase",
+            "Ninguna respuesta es correcta"
+        ],
+        "solucion": "3",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Si se quiere optimizar el rendimiento maximo de un transmisor OFDM, el amplificador de salida :",
+        "opciones": [
+            "Debe ser lineal, clase A",
+            "Debe ser no lineal, clase E",
+            "Debe ser lineal, clase B",
+            "Debe ser no lineal, clase C"
+        ],
+        "solucion": "2",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "En un receptor, el control automatico de ganancia permite:",
+        "opciones": [
+            "Aumentar el margen dinamico del receptor",
+            "Aumentar el margen dinamico del detector",
+            "Aumentar el margen dinamico del receptor y del detector",
+            "Aumentar la sensibilidad del receptor"
+        ],
+        "solucion": "0",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "En un transmisor, el control automatico de ganancia permite:",
+        "opciones": [
+            "Controlar la potencia de salida del transmisor",
+            "Que el modulador trabaje dentro de su margen de funcionamiento optimo",
+            "Prevenir las derivas de ganancia en el amplificador de potencia por envejecimiento del componente",
+            "Todas las respuestas son ciertas"
+        ],
+        "solucion": "3",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Una de las principales ventajas de un sintetizador de frecuencia basado en divisor de doble modulo frente a uno basado en divisor fijo + divisor programable, es que:",
+        "opciones": [
+            "La frecuencia maxima que se puede sintetizar es mayor",
+            "Se puede trabajar con una frecuencia de referencia mayor",
+            "No genera señales espurias que modulen en frecuencia al VCO",
+            "El detector de fase siempre trabaja en zona lineal"
+        ],
+        "solucion": "1",
+        "examen": "2016jul"
+    },
+    {
+        "pregunta": "Un atenuador de 3dB a 300 K puesto a la salida de una antena que capta una temperatura de 300 K",
+        "opciones": [
+            "Aumenta la temperatura de ruido a la salida del conjunto hasta 900K.",
+            "Aumenta la temperatura de ruido a la salida del conjunto hasta 600K.",
+            "La temperatura de ruido a la salida del conjunto se mantiene en 300K.",
+            "Reduce la temperatura de ruido a la salida del conjunto a la mitad (150K)."
+        ],
+        "solucion": "2",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "Una señal modulada en QPSK consiste en",
+        "opciones": [
+            "Una señal con dos estados de amplitud y dos de fase.",
+            "Una señal con cuatro estados de amplitud.",
+            "Una señal con cuatro estados de fase.",
+            "Una señal con cuatro estados de frecuencia."
+        ],
+        "solucion": "2",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "El punto de cruce de intermodulacion en un amplificador lineal es una medida de...",
+        "opciones": [
+            "Distorsion lineal de fase y frecuencia.",
+            "La generacion de mezclas de tercer orden.",
+            "Distorsion armonica en el amplificador.",
+            "Conversion AM-PM en el amplificador."
+        ],
+        "solucion": "1",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "Un PLL (Lazo Enganchado en Fase) es un circuito realimentado que permite obtener una señal a su salida que...",
+        "opciones": [
+            "Tiene la misma modulacion que la de entrada pero a otra frecuencia portadora.",
+            "Se puede interpretar como un filtrado de amplitud.",
+            "Sigue las variaciones lentas de fase, contenidas en una banda equivalente paso bajo.",
+            "Sigue las variaciones rapidas de fase, contenidas en una banda equivalente paso alto."
+        ],
+        "solucion": "2",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "Un amplificador tiene una ganancia de 20dB, un punto de compresion a 1dB de 19dBm y una potencia de saturacion de 22dBm.",
+        "opciones": [
+            "Para una potencia de entrada de -80 dBm, la potencia de salida es de -60 dBm.",
+            "Para una potencia de entrada de 0 dBm, la potencia de salida es de 20 dBm.",
+            "Para una potencia de entrada de 10 dBm, la potencia de salida es de 30 dBm.",
+            "Todas las anteriores son ciertas."
+        ],
+        "solucion": "0",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "Las reflexiones multiples en un cable de antena generan una distorsion en la señal que...",
+        "opciones": [
+            "Es una distorsion no lineal que no puede compensarse.",
+            "Es una distorsion lineal y se puede compensar con un ecualizador adecuado.",
+            "Solo afecta a los sistemas digitales de alta velocidad de transmision.",
+            "Supone una generacion de productos de intermodulacion entre portadoras."
+        ],
+        "solucion": "1",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "De entre los siguientes filtros ¿cual tiene factor de calidad mas alto?",
+        "opciones": [
+            "Filtro realizado con un cristal.",
+            "Filtro realizado con un resonador dielectrico.",
+            "Filtro en tecnologia impresa.",
+            "Todos tienen el mismo factor de calidad."
+        ],
+        "solucion": "0",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "Un PLL se puede utilizar",
+        "opciones": [
+            "Como demodulador de fase.",
+            "Como demodulador de frecuencia.",
+            "Como recuperador de portadora.",
+            "Todas son ciertas."
+        ],
+        "solucion": "3",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "La estabilidad a largo plazo en la frecuencia de un oscilador se especifica como",
+        "opciones": [
+            "Rizado de la amplitud de salida.",
+            "Variacion de la potencia al variar la frecuencia de sintonia.",
+            "Ruido de fase lejos de la portadora.",
+            "Variacion de la frecuencia en partes por millon."
+        ],
+        "solucion": "3",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "¿Que tipo de amplificador utilizaria en la ultima etapa de un transmisor monocanal de FM, si se desea un alto rendimiento?",
+        "opciones": [
+            "Un amplificador clase A.",
+            "Un amplificador clase B.",
+            "Un amplificador clase C.",
+            "Un amplificador clase E."
+        ],
+        "solucion": "3",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "La Potencia Isotropica Radiada Equivalente (PIRE o EIRP) de un equipo transmisor de 30dBm de potencia de salida, ganancia de antena de 40 dBi y perdidas del cable entre transmisor y antena de 1 dB es:",
+        "opciones": [
+            "39 dBW",
+            "41 dBW",
+            "69 dBW",
+            "71 dBW"
+        ],
+        "solucion": "0",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "Un amplificador lineal genera productos de intermodulacion de tercer orden de -40dBm cuando la potencia a la entrada es -25dBm. Si la potencia de entrada es -30dBm, ¿la potencia de los productos de intermodulacion sera?",
+        "opciones": [
+            "La misma",
+            "-55dBm",
+            "-60dBm",
+            "-70dBm"
+        ],
+        "solucion": "1",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "No se puede utilizar un amplificador clase C con señales moduladas en amplitud porque,",
+        "opciones": [
+            "Genera armonicos de la portadora y se mezclan con la señal principal.",
+            "La ganancia depende del nivel de señal a la entrada.",
+            "Necesita un filtrado estrecho a la salida y elimina la banda de modulacion.",
+            "El rendimiento baja mucho cuando la modulacion es de AM."
+        ],
+        "solucion": "1",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "¿Que significa que una amplificador tiene una ROE a la entrada igual a 1?",
+        "opciones": [
+            "Que el coeficiente de reflexion es 1/2.",
+            "Que el coeficiente de reflexion es 1/3",
+            "Que la potencia reflejada es el doble que la transmitida.",
+            "Que no existe potencia reflejada."
+        ],
+        "solucion": "3",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "En un receptor superheterodino, la banda imagen es...",
+        "opciones": [
+            "Una banda de señales que mezcladas con el OL genera señales en la banda de FI.",
+            "Una banda de señales producidas por la intermodulacion de tercer orden del amplificador de RF.",
+            "Una banda de señales que se generan por mezcla del OL con la FI.",
+            "Una banda espuria que se elimina con mezcladores doblemente equilibrados."
+        ],
+        "solucion": "0",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "Un transmisor genera un armonico de orden 2 que esta 40 dB por debajo del fundamental cuando genera una señal deseada de 30 dBm. Si la señal de salida aumenta en 10 dB, la potencia del armonico de orden 2 sera",
+        "opciones": [
+            "-10 dBm",
+            "0 dBm",
+            "10 dBm",
+            "No hay datos suficientes para calcularlo."
+        ],
+        "solucion": "2",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "El que la sensibilidad de un receptor sea -105dBm significa:",
+        "opciones": [
+            "Que si la potencia que le llega es mayor a -105dBm, el receptor se satura.",
+            "Que -105dBm es la potencia minima que puede recibir con una calidad adecuada.",
+            "Que la ganancia de los amplificadores permiten que la potencia a la salida del receptor sea de -105dBm.",
+            "Que la potencia maxima que puede recibir es -105dBm para que el ruido sea despreciable."
+        ],
+        "solucion": "1",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "Un receptor homodino es el que:",
+        "opciones": [
+            "Presenta una doble conversion de frecuencia.",
+            "Se realiza una recepcion directa a la frecuencia de trabajo.",
+            "Presenta una conversion de frecuencia hacia arriba.",
+            "Tiene una conversion de frecuencia a una frecuencia intermedia."
+        ],
+        "solucion": "1",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "Un amplificador en recepcion tiene un control automatico de ganancia de 20 dB y una ganancia maxima de 30 dB. ¿Que significa lo anterior?",
+        "opciones": [
+            "Para potencias altas de entrada, la ganancia se reduce hasta 10 dB.",
+            "Para potencias minimas de entrada, la ganancia se reduce a 10 dB.",
+            "La ganancia del amplificador va reduciendose con el tiempo desde 30 dB hasta 10 dB.",
+            "La ganancia se puede ajustar en la fase de diseño a un valor fijo entre 10 y 30 dB."
+        ],
+        "solucion": "0",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "El punto de compresion a 1 dB de un amplificador es",
+        "opciones": [
+            "La potencia de entrada para la que la ganancia sea de 1 dB.",
+            "La potencia de salida para la que la ganancia se ha reducido en 1 dB.",
+            "La potencia de saturacion.",
+            "La potencia de entrada a la que se produce la saturacion."
+        ],
+        "solucion": "1",
+        "examen": "2016jun"
+    },
+    {
+        "pregunta": "En un mezclador simple, las señales de RF, OL y FI se separan",
+        "opciones": [
+            "Mediante filtrado",
+            "Empleando circuitos hibridos",
+            "Empleando configuraciones balanceadas",
+            "No es necesario separarlas ya que siempre trabajan en bandas diferentes"
+        ],
+        "solucion": "0",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En un receptor de doble conversion hacia arriba, la frecuencia imagen se situa",
+        "opciones": [
+            "Por encima del OL, separada de el dos veces la frecuencia intermedia",
+            "Por debajo del OL, separada de el dos veces la frecuencia intermedia",
+            "Por encima de la señal de RF, separada de ella la FI",
+            "Ninguna respuesta es correcta"
+        ],
+        "solucion": "3",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "Se inyecta un tono de frecuencia f0 a la entrada de un amplificador no lineal con un nivel de potencia tal que el dispositivo trabaja en zona no lineal. A la salida del amplificador aparece",
+        "opciones": [
+            "unicamente el tono de frecuencia f0 amplificado",
+            "El tono de frecuencia f0 y sus armonicos de orden par",
+            "El tono de frecuencia f0 y todos sus armonicos",
+            "Los productos de intermodulacion de orden 3 entre el tono de frecuencia f 0 y sus armonicos"
+        ],
+        "solucion": "2",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En un dispositivo de G=10 dB, P1dB= 20 dBm, PSATURACIoN= 21 dBm y maxima potencia disipada de 1W se inyecta un tono de 40 dBm",
+        "opciones": [
+            "La potencia de salida es 50 dBm",
+            "La potencia de salida es 21 dBm",
+            "La potencia de salida es 20 dBm",
+            "El dispositivo no soporta la potencia de entrada inyectada"
+        ],
+        "solucion": "3",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "Un mezclador (conversor hacia abajo) especificado para una potencia de OL de 23 dBm tiene una ganancia de 7 dB y un aislamiento OL-FI y OL-RF de 30 dB. Si se conecta al mezclador un OL de 7 dBm de potencia, para una señal de 0 dBm inyectada a su entrada:",
+        "opciones": [
+            "La potencia de salida es 7 dBm",
+            "La potencia del OL en la puerta de FI es de -23 dBm",
+            "La potencia del OL en la puerta de RF es de -7 dBm",
+            "Ninguna de las respuestas es necesariamente correcta"
+        ],
+        "solucion": "3",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "Un amplificador clase A con un rendimiento maximo del 50% se emplea para amplificar una portadora. Si la maxima potencia de salida en RF debe ser de 20dBm, la potencia de la bateria debe ser",
+        "opciones": [
+            "0W",
+            "200mW",
+            "40dBm",
+            "0dBm"
+        ],
+        "solucion": "1",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En la etapa final de un TX que combina N canales modulados en frecuencia emplearia un amplificador",
+        "opciones": [
+            "Clase A",
+            "Clase B",
+            "Clase C",
+            "Clase D"
+        ],
+        "solucion": "1",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "El pushing mide",
+        "opciones": [
+            "La variacion de la ganancia de un amplificador con la tension de polarizacion",
+            "La variacion de la frecuencia de resonancia de un oscilador con la temperatura",
+            "La variacion de la frecuencia de resonancia de un oscilador con tension de polarizacion",
+            "La variacion de la ganancia de un amplificador con la temperatura"
+        ],
+        "solucion": "2",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "Los osciladores de cristal de cuarzo",
+        "opciones": [
+            "Son osciladores de poca estabilidad, que se estabilizan con osciladores VCO de gran estabilidad",
+            "Son osciladores de banda ancha, que pueden oscilar en un margen de mas de una octava",
+            "Son osciladores muy estables, que pueden oscilar en un margen de frecuencia de una decada",
+            "Son osciladores muy estables de banda muy estrecha"
+        ],
+        "solucion": "3",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En un PLL sintetizador interesa que la frecuencia de referencia",
+        "opciones": [
+            "Sea baja para que no sea filtrada por el filtro del PLL",
+            "Sea lo mas alta posible para que el filtro del PLL la rechace",
+            "Sea lo mas alta posible para que module en frecuencia al VCO",
+            "Sea lo mas baja posible para que se pueda generar con un oscilador de baja frecuencia"
+        ],
+        "solucion": "1",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En un sintetizador basado en un PLL de orden 2 y tipo 2, la pulsacion propia",
+        "opciones": [
+            "Disminuye a medida que aumenta la frecuencia sintetizada",
+            "Aumenta a medida que aumenta la frecuencia sintetizada",
+            "No varia con la frecuencia sintetizada",
+            "Debe seleccionarse de modo que sea multiplo de la frecuencia de sintesis"
+        ],
+        "solucion": "0",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En un conversor hacia arriba basico (o mezclador ideal) las frecuencias espurias son las correspondientes",
+        "opciones": [
+            "Al batido suma entre la señal de RF y el OL",
+            "Al batido diferencia entre la señal de RF y el OL",
+            "Al batido suma entre la señal de FI y el OL",
+            "Al batido diferencia entre la señal de FI y el OL"
+        ],
+        "solucion": "1",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "Al disminuir la banda relativa de un filtro, manteniendo constante el factor de calidad de los resonadores y el numero de etapas",
+        "opciones": [
+            "Las perdidas añadidas en la banda de paso no varian",
+            "Las perdidas añadidas en la banda de paso aumentan",
+            "Las perdidas añadidas en la banda de paso disminuyen",
+            "La atenuacion maxima del filtro en la banda atenuada no varia"
+        ],
+        "solucion": "1",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En un modulador DBL basado en un modulador I/Q",
+        "opciones": [
+            "No es necesario inyectar piloto de portadora",
+            "La señal moduladora se inyecta en la puerta Q",
+            "No es necesario controlar la potencia de la portadora inyectada",
+            "La señal moduladora se inyecta en la puerta I"
+        ],
+        "solucion": "3",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En un demodulador BLU basado en un demodulador I/Q",
+        "opciones": [
+            "La señal moduladora se extrae en la puerta I",
+            "La señal moduladora se extrae en la puerta Q",
+            "Hay que combinar las señales de las puertas I y Q para extraer la señal moduladora",
+            "Hay que combinar las señales de las puertas I y Q, desfasadas 90º, para extraer la señal moduladora"
+        ],
+        "solucion": "2",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "El ancho de banda de una señal modulada en FM depende de",
+        "opciones": [
+            "La frecuencia de la portadora",
+            "La frecuencia minima de la señal moduladora",
+            "La potencia de la señal moduladora",
+            "Ninguna respuesta es correcta"
+        ],
+        "solucion": "3",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En un transmisor, el control automatico de ganancia se puede emplear para",
+        "opciones": [
+            "Controlar la potencia de salida del amplificador de potencia",
+            "Asegurar que el OL del conversor superior trabaja con el nivel de potencia adecuado",
+            "Controlar la potencia de salida del amplificador de FI",
+            "Solo se usa CAG en los receptores"
+        ],
+        "solucion": "0",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "Un mezclador doblemente equilibrado de 6 dB de perdidas se emplea para diseñar un modulador AM. Si se le inyecta una señal de 0dBm,",
+        "opciones": [
+            "La potencia de la señal modulada en AM a la salida del mezclador es -6dBm",
+            "La potencia de la señal modulada en AM a la salida del mezclador es -3dBm",
+            "La potencia de la señal modulada en DBL a la salida del mezclador es -6dBm",
+            "La potencia de la señal modulada en DBL a la salida del mezclador es -3dBm"
+        ],
+        "solucion": "3",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "En un transmisor homodino",
+        "opciones": [
+            "La frecuencia de RF se obtiene a traves del batido suma entre la frecuencia de OL y la FI",
+            "La frecuencia de RF se obtiene a traves del batido diferencia entre la frecuencia de OL y la FI",
+            "La frecuencia de RF es la frecuencia portadora modulada",
+            "La frecuencia de RF es la señal en banda base"
+        ],
+        "solucion": "2",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "El filtro de FI en un receptor de sintonia continua",
+        "opciones": [
+            "Debe filtrar la banda imagen",
+            "Debe dejar pasar toda la banda del servicio",
+            "Debe ser selectivo al canal",
+            "Debe eliminar las espurias resultado del proceso de mezcla"
+        ],
+        "solucion": "2",
+        "examen": "2017jul"
+    },
+    {
+        "pregunta": "¿Cuanto vale la figura de ruido de un cable de 20m de longitud y 0.1dB/m de atenuacion?",
+        "opciones": [
+            "20 dB",
+            "2 dB",
+            "0.1 dB/m",
+            "Depende de su temperatura fisica"
+        ],
+        "solucion": "3",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Un sistema es no-lineal si:",
+        "opciones": [
+            "Modifica la amplitud y fase de la señal de forma diferente para cada componente espectral.",
+            "Su comportamiento depende de la amplitud de la señal a la entrada del sistema.",
+            "El tiempo de retardo varia con la frecuencia.",
+            "Distorsiona las señales digitales pero no las analogicas."
+        ],
+        "solucion": "1",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Si el nivel del tercer armonico de un amplificador es -30dBc para una potencia nominal de 1W, entonces",
+        "opciones": [
+            "Para 2W sera de -30 dBm",
+            "Para 2W sera de -3 dBm",
+            "Para 2W sera de 9 dBm",
+            "Para 2W sera de -90 dBm"
+        ],
+        "solucion": "2",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "En un amplificador de 30 dB al aplicar dos tonos a su entrada de 0.020 microW cada uno se obtienen una potencia total de productos de intermodulacion de -70 dBm, El PI3 vale:",
+        "opciones": [
+            "-11 dBm",
+            "-70 dBm",
+            "9.5 dBm",
+            "14 dBm"
+        ],
+        "solucion": "3",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Al aplicar -33 dBm y -22 dBm a la entrada de un amplificador se obtienen -3 dBm y 7 dBm a su salida. Indique que resultados son correctos:",
+        "opciones": [
+            "Ganancia 29 dB y 30 dBm de punto de compresion a 1 dB",
+            "Ganancia 30 dB y 7 dBm de punto de compresion a 1 dB",
+            "Ganancia 29 dB y 10 dBm de punto de compresion a 1 dB",
+            "Ganancia 30 dB y 8 dBm de punto de compresion 1 dB"
+        ],
+        "solucion": "1",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Un mezclador se acostumbra a representar con el simbolo porque en su version ideal :",
+        "opciones": [
+            "Multiplica las frecuencias de las señales de entrada",
+            "Multiplica las amplitudes de las señales de entrada.",
+            "Multiplica las señales de entrada.",
+            "Multiplica las frecuencias y las amplitudes de las señales de entrada."
+        ],
+        "solucion": "2",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Un demodulador IQ...",
+        "opciones": [
+            "al usar mezcladores equilibrados funciona en una banda de frecuencia de portadora muy ancha.",
+            "incorpora un transformador de Hilbert con lo que demodula BLU sin mas componentes.",
+            "solo funciona bien a la frecuencia de diseño del desfasador de portadora.",
+            "Al usar dos mezcladores tiene el doble de perdidas de conversion que un unico mezclador."
+        ],
+        "solucion": "2",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Si hay -12 dBm de potencia media en banda base a la entrada de un mezclador equilibrado con L conv= 6 dB, a su salida habra:",
+        "opciones": [
+            "Una señal BLU con una potencia de -21 dBm",
+            "Una señal DBL con una potencia de -6 dBm",
+            "Una señal DBL con una potencia de -15 dBm",
+            "Una señal DBL con una potencia de -18 dBm"
+        ],
+        "solucion": "2",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "El modelo de Leeson describe:",
+        "opciones": [
+            "El comportamiento no lineal de un dispositivo",
+            "El comportamiento no lineal de un oscilador",
+            "El ruido de fase de un sintetizador",
+            "El ruido fase de un oscilador."
+        ],
+        "solucion": "3",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Para construir un VCO en la banda de UHF utilizaremos:",
+        "opciones": [
+            "Un resonador dielectrico",
+            "Un cristal de cuarzo",
+            "Un resonador LC con un varactor.",
+            "Un resonador en cable coaxial."
+        ],
+        "solucion": "2",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "¿Por que conviene utilizar la frecuencia de referencia mas alta posible un sintetizador?",
+        "opciones": [
+            "Para reducir el tiempo de respuesta en cambios de frecuencia.",
+            "Para mejorar el rendimiento",
+            "Para reducir la modulacion por la frecuencia de referencia.",
+            "Para aumentar el margen de mantenimiento estatico."
+        ],
+        "solucion": "2",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "La funcion de transferencia de un sintetizador relaciona.",
+        "opciones": [
+            "Las amplitudes de entrada y salida.",
+            "Las fases absolutas de entrada y salida",
+            "Las fases relativas de entrada y salida.",
+            "Los ruidos de fase de entrada y salida."
+        ],
+        "solucion": "2",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "¿Que tipo de amplificador utilizaria en la ultima etapa de potencia de un transmisor de FM?",
+        "opciones": [
+            "Un amplificador clase A",
+            "Un amplificador clase B",
+            "Un amplificador clase C",
+            "Un amplificador distribuido"
+        ],
+        "solucion": "2",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "En un amplificador sintonizado de varias etapas iguales, el ancho de banda a -3dB...",
+        "opciones": [
+            "Solo depende de la ultima etapa amplificadora.",
+            "Disminuye al aumentar el numero de etapas.",
+            "Aumenta al aumentar el factor de calidad de los circuitos de sintonia.",
+            "Es independiente del numero de etapas."
+        ],
+        "solucion": "1",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "El uso de un amplificador clase C para señales multiportadora:",
+        "opciones": [
+            "Es perfecto mientras no se supere el punto de compresion a 1dB",
+            "Esta desaconsejado porque se produce intermodulacion entre portadoras",
+            "No presenta problemas porque los armonicos caen fuera de la banda de señal.",
+            "Esta desaconsejado por el bajo rendimiento de potencia."
+        ],
+        "solucion": "1",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Si al calcular la atenuacion de un filtro pasobanda a una interferencia le sale una w' < 1 , eso indica que:",
+        "opciones": [
+            "La interferencia esta en la banda de paso del filtro.",
+            "La interferencia esta en la banda eliminada del filtro.",
+            "Que se ha olvidado de calcular el valor absoluto de la formula de transformacion",
+            "Que tiene usar la frecuencia con signo negativo."
+        ],
+        "solucion": "0",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Suponga que tiene que construir un medidor de nivel de campo que cubra la banda de 1 a 2 GHz en bloque: ¿que tipo de receptor utilizaria?:",
+        "opciones": [
+            "Un receptor Homodino",
+            "Un receptor Heterodino con conversion hacia abajo.",
+            "Un receptor Heterodino con conversion hacia arriba.",
+            "Un receptor Heterodino de doble conversion."
+        ],
+        "solucion": "0",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "El control automatico de ganancia en un receptor es un sistema que se implementa para:",
+        "opciones": [
+            "Limitar el nivel de modulacion residual de AM en receptores de FM.",
+            "Aumentar la ganancia del receptor en funcion de las interferencias del sistema.",
+            "Aumentar el margen dinamico de entrada manteniendo la linealidad del receptor.",
+            "Aumentar el margen de sintonia del receptor hasta mas de una octava."
+        ],
+        "solucion": "2",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "La banda imagen en un receptor superheterodino se situa en el espectro de frecuencia:",
+        "opciones": [
+            "A dos veces la frecuencia intermedia por encima de la señal deseada.",
+            "A dos veces la frecuencia intermedia por debajo de la señal deseada.",
+            "En la frecuencia del oscilador local utilizado.",
+            "En la posicion simetrica de la de señal con respecto al oscilador local."
+        ],
+        "solucion": "3",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "Tiene que diseñar un receptor que deber recibir señales entre 2 y 4 MHz con 6 kHz de ancho de banda: ¿Que frecuencia intermedia escogeria?",
+        "opciones": [
+            "455 kHz",
+            "1.7 MHz",
+            "10.7 MHz",
+            "30 MHz"
+        ],
+        "solucion": "0",
+        "examen": "2017jun"
+    },
+    {
+        "pregunta": "La potencia de salida de un amplificador en regimen lineal es de 0 dBm y la de los productos de intermodulacion de orden 3 es de -32 dBm. Si a la salida tenemos una potencia de -5 dBm:",
+        "opciones": [
+            "La de los productos de intermodulacion de orden 3 sera de -37 dBm.",
+            "La de los productos de intermodulacion de orden 3 sera de -42 dBm.",
+            "La de los productos de intermodulacion de orden 3 sera de -47 dBm.",
+            "La de los productos de intermodulacion de orden 3 sera de -52 dBm."
+        ],
+        "solucion": "2",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "La banda imagen en un receptor superheterodino:",
+        "opciones": [
+            "Se puede filtrar en el filtro de RF.",
+            "Se filtra en frecuencia intermedia.",
+            "Produce un bloqueo del receptor.",
+            "Se genera en el mezclador."
+        ],
+        "solucion": "0",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "Cuando la potencia de salida en un amplificador clase A es de 1 W, el rendimiento es del 33.3%",
+        "opciones": [
+            "Si la potencia de salida es de 2 W, la potencia de alimentacion es de 6W.",
+            "Cuando no hay potencia de entrada, la potencia disipada es de 3W.",
+            "La potencia disipada es siempre 2 W.",
+            "La potencia de entrada siempre es 1W."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "Una variacion lineal de la fase en la funcion de transferencia de un filtro:",
+        "opciones": [
+            "Produce una distorsion lineal que no puede compensarse.",
+            "Produce una distorsion lineal que puede compensarse con ecualizadores.",
+            "Produce una distorsion no lineal solo si hay varias portadoras en la misma banda.",
+            "No produce distorsion."
+        ],
+        "solucion": "3",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "Al amplificar una señal de 100 portadoras la C/I por intermodulacion es 30dB si la potencia de salida es 20dBm. ¿Y si la potencia es 10dBm?",
+        "opciones": [
+            "C/I No cambia.",
+            "C/I=50dB.",
+            "C/I=36dB.",
+            "C/I=0dB."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "La funcion de transferencia del PLL relaciona en el espacio de Laplace:",
+        "opciones": [
+            "La tension de salida del detector de fase con la tension de entrada en la puerta de referencia.",
+            "La frecuencia de la señal de salida con la fase de la señal de entrada.",
+            "La fase a la salida del PLL con la fase de la señal de referencia.",
+            "La tension de la señal de salida con la diferencia de tension entre las puertas de salida y entrada."
+        ],
+        "solucion": "2",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "Un diodo varactor en el circuito resonante de un VCO permite:",
+        "opciones": [
+            "Aumentar la ganancia del circuito.",
+            "Variar la frecuencia de oscilacion al variar su capacidad con la tension de control.",
+            "Controlar la tension de salida de forma proporcional a la tension de control.",
+            "Reducir el ruido de fase en frecuencias alejadas de la portadora."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "En un receptor homodino, la frecuencia imagen es",
+        "opciones": [
+            "El margen de frecuencias a la entrada, que no es la banda de RF, que mezclada con el oscilador local aparece en la banda de frecuencia intermedia.",
+            "El margen de frecuencias que mezclada con fs genera fi.",
+            "El margen de frecuencia alrededor de fi que tiene el mismo ancho de banda que fr.",
+            "Un receptor homodino no tiene banda imagen."
+        ],
+        "solucion": "3",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "Un amplificador de potencia clase A tiene como ventaja respecto del clase D,",
+        "opciones": [
+            "La ganancia es mucho mas alta.",
+            "La respuesta es mas lineal.",
+            "Es mas adecuado para amplificar señales moduladas en FM.",
+            "El rendimiento es mas alto."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "La mision fundamental del filtro de frecuencia intermedia en un receptor superheterodino es:",
+        "opciones": [
+            "Eliminar la banda imagen y señales interferentes de alto nivel.",
+            "Eliminar las señales fuera de la banda de señal.",
+            "Evitar realimentaciones entre los amplificadores de RF.",
+            "Eliminar los productos de intermodulacion de segundo orden generados en el amplificador de RF."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "Que la funcion de transferencia de un PLL es paso bajo significa que:",
+        "opciones": [
+            "Elimina las componentes en frecuencias superiores a la frecuencia de entrada.",
+            "Solo deja pasar las componentes de baja frecuencia de la tension de entrada.",
+            "Solo pasan las componentes de baja frecuencia de la modulacion de frecuencia o fase.",
+            "Solo aparecen a la salida las componentes rapidas de modulacion de fase."
+        ],
+        "solucion": "2",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "En un sintetizador de frecuencia con PLL y divisor de doble modulo, el salto minimo de frecuencia es:",
+        "opciones": [
+            "La frecuencia de referencia multiplicada por el factor de division en la rama de realimentacion.",
+            "Igual a la frecuencia utilizada como referencia a la entrada.",
+            "La frecuencia puede variarse de forma continua.",
+            "La frecuencia de referencia dividida por la ganancia de lazo del PLL."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "En un filtro de radiofrecuencia:",
+        "opciones": [
+            "Cuanto mayor es el factor de calidad, mayor es el ancho de banda del filtro.",
+            "Cuanto mayor es el factor de calidad, mayores son las perdidas del filtro.",
+            "Cuanto mayor es el factor de calidad, menor es la frecuencia de trabajo.",
+            "Cuanto mayor es el factor de calidad, menores son las perdidas del filtro."
+        ],
+        "solucion": "3",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "Las perdidas de conversion en un mezclador en un receptor heterodino son:",
+        "opciones": [
+            "El cociente entre potencia a la entrada y potencia de oscilador local.",
+            "El cociente entre potencia a la entrada y de salida, ambas a la frecuencia intermedia.",
+            "El cociente entre potencia a la entrada y de salida, ambas a la frecuencia de RF.",
+            "El cociente entre potencia a la entrada en frecuencia de RF y de salida a la frecuencia intermedia."
+        ],
+        "solucion": "3",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "Un modulador I&Q de señales en fase y cuadratura,",
+        "opciones": [
+            "Modula dos portadoras ortogonales en FM y obtiene la diferencia.",
+            "Modula en DBL dos portadoras en fase y suma los resultados.",
+            "Emplea un solo mezclador trabajando en zona lineal.",
+            "Modula en DBL dos portadoras en cuadratura y suma los resultados."
+        ],
+        "solucion": "3",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "La temperatura equivalente de ruido de un atenuador",
+        "opciones": [
+            "Es nula independientemente de cual sea la temperatura del atenuador.",
+            "Es mayor cuanto mayor sea la temperatura del atenuador.",
+            "No depende de la temperatura del atenuador.",
+            "Es menor cuanto mayor sea la temperatura del atenuador."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "En una cadena compuesta por un amplificador de figura de ruido de 1 dB y 30dB de ganancia y un filtro con unas perdidas de 1 dB a temperatura ambiente,",
+        "opciones": [
+            "El ruido es mayor si el primer elemento es el amplificador.",
+            "El ruido es menor si el primer elemento es el amplificador.",
+            "El ruido no depende del orden de los elementos.",
+            "La posicion para minimo ruido depende del ruido de la antena."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "El control automatico de ganancia en un receptor se utiliza para,",
+        "opciones": [
+            "Aumentar la sensibilidad del receptor.",
+            "Aumentar la potencia maxima a la entrada del receptor.",
+            "Reducir la sensibilidad del receptor.",
+            "Reducir la potencia maxima a la entrada del receptor."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "En un amplificador de 21dB de ganancia y P1dB = 20dBm,",
+        "opciones": [
+            "La potencia maxima a la salida es de 20dBm.",
+            "Los productos de intermodulacion aparecen para niveles de señal a la salida de 20dBm.",
+            "La ganancia se reduce en 1dB para una señal de entrada de 1mW",
+            "La ganancia se reduce a 20dB cuando la potencia de entrada es 100mW."
+        ],
+        "solucion": "2",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "En un receptor superheterodino",
+        "opciones": [
+            "Para sintonizar un canal, hay que cambiar el valor de la frecuencia intermedia.",
+            "Para sintonizar un canal, hay que cambiar la frecuencia del sintetizador de oscilador local.",
+            "Para sintonizar un canal, hay que cambiar la ganancia del amplificador de RF.",
+            "Para sintonizar un canal, hay que cambiar la frecuencia de trabajo de la antena."
+        ],
+        "solucion": "1",
+        "examen": "2018jul"
+    },
+    {
+        "pregunta": "La intermodulacion de tercer orden:",
+        "opciones": [
+            "Es un proceso de distorsion lineal.",
+            "Es un proceso de distorsion no lineal.",
+            "Es debida a la presencia de la banda imagen.",
+            "Puede compensarse con circuitos ecualizadores lineales."
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Se produce bloqueo en un receptor superheterodino:",
+        "opciones": [
+            "Cuando una interferencia en la frecuencia intermedia se cuela en el receptor.",
+            "Cuando el procesador digital de señales de control se bloquea y hay que inicializarlo.",
+            "Cuando señales de alta potencia fuera de la banda de recepcion saturan alguna etapa del mismo.",
+            "Los receptores superheterodinos no se bloquean porque filtran la señal en frecuencia intermedia."
+        ],
+        "solucion": "2",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "La estabilidad a corto plazo en la frecuencia de un oscilador se especifica como",
+        "opciones": [
+            "Variacion de la potencia al variar la frecuencia de sintonia.",
+            "La variacion de la frecuencia en partes por millon por dia.",
+            "Modulacion por ruido de fase.",
+            "Rizado de la amplitud de salida."
+        ],
+        "solucion": "2",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "La variacion del tiempo de retardo en la funcion de transferencia de un filtro",
+        "opciones": [
+            "Produce una distorsion lineal que no puede compensarse.",
+            "Produce una distorsion lineal que puede compensarse con ecualizadores.",
+            "Produce una distorsion no lineal solo si hay varias portadoras en la misma banda.",
+            "No produce distorsion."
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Al amplificar una señal de 100 portadoras la C/I por intermodulacion es 50dB si la potencia es 23dBm. ¿Y si la potencia es 1W?",
+        "opciones": [
+            "C/I No cambia.",
+            "C/I=57dB.",
+            "C/I=36 dB.",
+            "C/I=1mW."
+        ],
+        "solucion": "2",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "La funcion de transferencia del PLL relaciona en el espacio de Laplace...",
+        "opciones": [
+            "La tension de salida del detector de fase con la tension de entrada en la puerta de referencia.",
+            "La frecuencia de la señal de salida con la fase de la señal de entrada.",
+            "La fase a la salida del PLL con la fase de la señal de referencia.",
+            "La fase de la señal de salida con la tension a la salida del detector de fase."
+        ],
+        "solucion": "2",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Un diodo varactor en el circuito resonante de un VCO permite:",
+        "opciones": [
+            "Controlar la potencia de salida en un factor superior a 2.",
+            "Variar la frecuencia de oscilacion al variar su capacidad con la tension de control.",
+            "Controlar la fase de salida de forma proporcional a la tension de control.",
+            "Reducir el ruido de fase en frecuencias alejadas de la portadora."
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Se denomina banda imagen en un conversor de frecuencia desde RF a FI",
+        "opciones": [
+            "El margen de frecuencias a la entrada, que no es la banda de RF, que mezclada con el oscilador local aparece en la banda de frecuencia intermedia.",
+            "El margen de frecuencias que mezclada con fs genera fi.",
+            "El margen de frecuencia alrededor de fi que tiene el mismo ancho de banda que fr.",
+            "La banda de salida producida por la mezcla de la señal y el oscilador que no es fi."
+        ],
+        "solucion": "0",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Un amplificador de potencia clase E tiene como ventaja respecto del clase B,",
+        "opciones": [
+            "La ganancia es mucho mas alta.",
+            "La respuesta es mas lineal.",
+            "Es mas adecuado para amplificar señales moduladas en AM.",
+            "El rendimiento es mas alto."
+        ],
+        "solucion": "3",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "La mision fundamental del filtro de RF en un receptor superheterodino es:",
+        "opciones": [
+            "Eliminar la banda imagen y señales interferentes de alto nivel.",
+            "Reducir la potencia de ruido de antena fuera de la banda.",
+            "Evitar realimentaciones entre los amplificadores de RF.",
+            "Eliminar los productos de intermodulacion generados en el amplificador de RF."
+        ],
+        "solucion": "0",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "La funcion de transferencia de un PLL es paso bajo significa que:",
+        "opciones": [
+            "Elimina las componentes en frecuencias superiores a la frecuencia de entrada.",
+            "Solo deja pasar las componentes de baja frecuencia de la tension de entrada.",
+            "Solo pasan las componentes de baja frecuencia de la modulacion de AM.",
+            "Solo aparecen a la salida las componentes lentas de modulacion de fase."
+        ],
+        "solucion": "3",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "En un sintetizador de frecuencia con PLL y divisor programable, el salto minimo de frecuencia es:",
+        "opciones": [
+            "La frecuencia de referencia multiplicada por el factor de division en la rama de realimentacion.",
+            "Igual a la frecuencia utilizada como referencia a la entrada.",
+            "La frecuencia puede variarse de forma continua.",
+            "La frecuencia de referencia dividida por la ganancia de lazo del PLL."
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "El divisor de frecuencia de doble modulo es:",
+        "opciones": [
+            "Un divisor que puede conmutar entre dos factores de division consecutivos.",
+            "Un divisor de frecuencia formado por dos divisores programables en cascada.",
+            "Un divisor programable de alta velocidad.",
+            "Un divisor de frecuencia formado por dos divisores fijos en cascada."
+        ],
+        "solucion": "0",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Un mezclador doblemente equilibrado elimina las mezclas armonicas",
+        "opciones": [
+            "Solo las mezclas de armonicos del oscilador local.",
+            "Todas las mezclas armonicas menos la mezcla fundamental.",
+            "Solo las mezclas armonicas pares del oscilador local.",
+            "Solo las de armonicos pares de oscilador local o señal."
+        ],
+        "solucion": "3",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Un modulador I&Q de señales en fase y cuadratura,",
+        "opciones": [
+            "Modula dos portadoras ortogonales en FM y obtiene la diferencia.",
+            "Realiza dos modulaciones DBL en fase y suma las señales obtenidas.",
+            "Modula en DBL dos portadoras ortogonales y suma el resultado.",
+            "Emplea un solo mezclador trabajando en saturacion."
+        ],
+        "solucion": "2",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "La temperatura equivalente a la entrada de un mezclador medida en simple banda (TSSB)",
+        "opciones": [
+            "Es nula si eliminamos la banda imagen.",
+            "Solo es aplicable a los mezcladores con rechazo de banda imagen.",
+            "Es una forma de definir la potencia de ruido generada por el mezclador.",
+            "Es siempre igual a la temperatura de referencia de 290K."
+        ],
+        "solucion": "2",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "La frecuencia intermedia en un receptor superheterodino sintonizable,",
+        "opciones": [
+            "Puede coincidir con la frecuencia del oscilador local.",
+            "Nunca debe coincidir con la frecuencia de señal de entrada.",
+            "Debe ser mas alta que la frecuencia de entrada.",
+            "Debe ser del orden del ancho de banda de la señal."
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "El control automatico de ganancia en un receptor se utiliza para,",
+        "opciones": [
+            "Aumentar la sensibilidad del receptor.",
+            "Aumentar el margen dinamico del receptor.",
+            "Reducir el nivel de ruido en el receptor.",
+            "Eliminar la banda imagen."
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "En un amplificador de 21dB de ganancia y P1dB = 30dBm,",
+        "opciones": [
+            "La potencia maxima a la salida es de 30dBm.",
+            "La ganancia se reduce a 20dB para una señal de entrada de 10mW.",
+            "Los productos de intermodulacion aparecen para niveles de señal a la salida de 30dBm.",
+            "La ganancia se reduce en 1dB cuando la potencia de entrada es 1W."
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Si dispone de dos amplificadores de bajo ruido de 15 dB de ganancia, uno con una figura de ruido F1=1dB y otro con F2=4dB, ¿Cual colocaria primero en la cadena para minimizar el ruido?",
+        "opciones": [
+            "El de mayor figura de ruido.",
+            "El de menor figura de ruido.",
+            "Da lo mismo cual de los dos se ponga porque tienen la misma ganancia.",
+            "El ruido no depende de los amplificadores."
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Cuando la transmision de informacion se realiza empleando el canal radioelectrico, la informacion se transmite modulando una portadora porque permite",
+        "opciones": [
+            "Disminuir el ancho de banda de la señal transmitida, de modo que el canal se comporte linealmente en el ancho de banda de la señal.",
+            "Para poder utilizar antenas de tamaño fisico razonable.",
+            "Emplear transmisores lineales de alta potencia, maximizando el rendimiento del transmisor.",
+            "Emplear receptores homodinos que mejoran sustancialmente la sensibilidad del receptor."
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Un amplificador lineal tiene 25 dB de ganancia, 10 dBm de P1dB, 10.5 dBm de potencia de saturacion, 30 dBm de PI3 y -14 dBm de potencia de entrada. La potencia a su salida sera:",
+        "opciones": [
+            "-20 dBW.",
+            "-19 dBW.",
+            "-19.5 dBW.",
+            "40 dBW."
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Cuando se introducen N portadoras en la entrada de un dispositivo no lineal, la distorsion no lineal",
+        "opciones": [
+            "Es independiente de la potencia de las señales presente en la entrada del dispositivo.",
+            "No produce nuevas componentes de frecuencia, unicamente las correspondientes a las señales presentes en la entrada del dispositivo.",
+            "Se produce exclusivamente es sistemas lineales.",
+            "Produce nuevas componentes espectrales, relacionadas con las frecuencias de las señales presentes en la entrada del dispositivo."
+        ],
+        "solucion": "3",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Para generar una señal modulada en AM, empleando un modulador I/Q e inyeccion de portadora,",
+        "opciones": [
+            "La señal en banda base se introduce por la puerta Q y su transformada de Hilbert por la puerta I.",
+            "La señal en banda base se introduce por la puerta I y su transformada de Hilbert por la puerta Q.",
+            "La señal en banda base se introduce por la puerta Q y la puerta I se pone a masa.",
+            "La señal en banda base se introduce por la puerta I y la puerta Q se pone a masa."
+        ],
+        "solucion": "3",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "En un PLL de orden 2 y tipo 2, con filtro lead-lag activo, en regimen permanente, el enganche del PLL frente a un escalon de frecuencia, se produce",
+        "opciones": [
+            "Con un error de fase proporcional al salto de frecuencia.",
+            "Con un error de fase proporcional la tension de salida del detector de fase.",
+            "Con un error de fase de 60º si se emplea como detector de fase un multiplicador analogico.",
+            "Con un error de fase nulo."
+        ],
+        "solucion": "3",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Un oscilador basado en un PLL de orden 2 y tipo 2, con detector digital de fase-frecuencia, emplea una frecuencia de referencia 10 MHz. La modulacion parasita de frecuencia a la salida del PLL se produce",
+        "opciones": [
+            "A la frecuencia de referencia.",
+            "A la frecuencia doble de la de referencia.",
+            "Nunca se produce modulacion parasita de frecuencia en PLL de orden 2 y tipo 2.",
+            "Solo se produce modulacion parasita de frecuencia si el detector de fase es un multiplicador analogico."
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "El ruido de fase de la señal de salida de un sintetizador con divisor programable N, basado en PLL, contiene, entre otras",
+        "opciones": [
+            "Las componentes paso bajo del ruido del VCO.",
+            "Las componentes paso bajo del ruido del VCO multiplicadas por N2.",
+            "Las componentes paso alto del ruido del VCO.",
+            "Las componentes paso alto del ruido del VCO multiplicadas por N2."
+        ],
+        "solucion": "2",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "El pulling es una medida de",
+        "opciones": [
+            "La variacion de la frecuencia de salida de un mezclador con la tension de alimentacion.",
+            "La variacion de la frecuencia de salida de un mezclador con la impedancia de entrada.",
+            "La variacion de la frecuencia de un oscilador con la tension de alimentacion.",
+            "La variacion de la frecuencia de un oscilador con la impedancia de entrada."
+        ],
+        "solucion": "3",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Un receptor BLU-S esta sintonizado a 24 MHz. Emplea una FI de 1.75 MHz y OL superior. Cuando la señal en banda base es una señal de voz (300 Hz a 3400 Hz), el espectro de la señal BLU en FI, sin considerar la frecuencia caracteristica, esta situado entre",
+        "opciones": [
+            "23.9997 MHz y 23.9966 MHz.",
+            "24.0003 MHz y 24.0034 MHz.",
+            "1.6997 MHz y 1.6966 MHz.",
+            "1.7003 MHz y 1.7034 MHz."
+        ],
+        "solucion": "2",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Las especificaciones de un mezclador son: L=8dB, F=8 dB, P1dB=10 dBm, POL=27 dBm, Aislamiento OL-FI =30 dB, Aislamiento OL-RF=40 dB. Para una señal de +10 dBm de potencia en la entrada de RF del mezclador:",
+        "opciones": [
+            "La potencia OL en la puerta de RF es -40 dBm.",
+            "La potencia OL en la puerta de FI es -3 dBm.",
+            "La potencia de la señal en la puerta de FI es 30 dBm.",
+            "La potencia de FI en la puerta de OL es -30 dBm."
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "En un sintetizador de frecuencia con PLL y divisor programable, el filtro paso bajo...",
+        "opciones": [
+            "No es necesario si se trabaja con divisores programables.",
+            "Permite atenuar las componentes de alta frecuencia producidas por el detector de fase.",
+            "Modula el VCO eliminando su ruido de fase.",
+            "Permite filtrar las componentes de baja frecuencia."
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "¿En que punto de un PLL de orden 2 utilizado como modulador de PM se inyectara la señal moduladora?",
+        "opciones": [
+            "A la salida del VCO.",
+            "A la entrada del VCO.",
+            "A la entrada del filtro paso bajo.",
+            "A la entrada del detector de fase."
+        ],
+        "solucion": "2",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "¿De que punto de un PLL de orden 2 utilizado como demodulador de PM se extraera la señal demodulada?",
+        "opciones": [
+            "A la salida del VCO.",
+            "A la entrada del VCO.",
+            "A la salida del filtro paso bajo.",
+            "A la salida del detector de fase."
+        ],
+        "solucion": "3",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Un amplificador en recepcion que tiene un control automatico de ganancia de 20dB y una ganancia maxima de 30dB permite:",
+        "opciones": [
+            "Para potencias bajas de entrada, la ganancia se reduce al valor de 10dB.",
+            "Reducir la ganancia del amplificador con el tiempo desde 30dB hasta 10dB.",
+            "Reducir la ganancia hasta el valor de 10 dB para potencias altas de entrada.",
+            "Ajustar la ganancia en la fase de diseño a un valor fijo entre 10 y 30dB."
+        ],
+        "solucion": "2",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Un amplificador de potencia clase A da un rendimiento maximo del 50% para una potencia de salida de 10W:",
+        "opciones": [
+            "Si la potencia de salida es de 8W, el rendimiento aumenta hasta el 60%.",
+            "Si la potencia de salida es de 8W, el rendimiento se reduce al 40%.",
+            "Si la potencia de salida es de 8W el rendimiento se reduce al 30%.",
+            "La potencia disipada no depende de la potencia de salida por lo que el rendimiento es constante."
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "De entre los siguientes filtros ¿cual tiene factor de calidad mas bajo?",
+        "opciones": [
+            "Filtro realizado con un resonador dielectrico.",
+            "Filtro en tecnologia plana.",
+            "Filtro realizado con un cristal.",
+            "Todos tienen el mismo factor de calidad."
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "La sensibilidad de un receptor es de -95dBm para una relacion señal a ruido de 15dB. ¿Cual de las siguientes afirmaciones es cierta?",
+        "opciones": [
+            "La potencia de ruido equivalente a la entrada no es mayor de -110dBm.",
+            "La potencia de ruido equivalente a la entrada no es menor de -80dBm.",
+            "La potencia de ruido equivalente a la entrada depende exclusivamente del ruido interno generado en el receptor.",
+            "La potencia de ruido equivalente a la entrada no es menor de -110dBm."
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "¿Que se entiende por 'selectividad del receptor' referida a un receptor superheterodino?",
+        "opciones": [
+            "Aptitud del receptor para separar la señal interferente en la banda imagen y la señal deseada, que generan la misma FI.",
+            "Aptitud del receptor para separar la señal imagen a la entrada del detector y la señal minima entregada en el detector.",
+            "Aptitud del receptor para separar la señal interferente en la banda imagen que satura el receptor y la señal entregada en el detector.",
+            "Aptitud del receptor para separar la señal deseada o seleccionada en el proceso de sintonia, de las potenciales interferencias en otras frecuencias."
+        ],
+        "solucion": "3",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "La potencia maxima de un transmisor esta normalmente limitada por:",
+        "opciones": [
+            "El indice de modulacion de la señal a transmitir.",
+            "La ganancia de la antena utilizada en el transmisor.",
+            "La tension de polarizacion del amplificador de potencia.",
+            "El rendimiento y la capacidad de disipacion del amplificador de potencia."
+        ],
+        "solucion": "3",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "En un transmisor, el control automatico de ganancia permite:",
+        "opciones": [
+            "Controlar la potencia de salida del transmisor.",
+            "Que el modulador no trabaje dentro de su margen de funcionamiento optimo.",
+            "Fomentar las derivas de ganancia en el amplificador de potencia por deterioro del componente.",
+            "Todas las respuestas son ciertas."
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Un atenuador de 2dB puesto a la entrada de un receptor aumenta la figura de ruido del conjunto en 2dB.",
+        "opciones": [
+            "Siempre",
+            "Solo si el atenuador esta a una temperatura fisica de 290K",
+            "Solo si el generador de entrada tiene una temperatura equivalente de 290K",
+            "Solo si el generador tiene una temperatura equivalente de 290K y el atenuador esta a 290K."
+        ],
+        "solucion": "3",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Dos tonos en un amplificador dan en total 40mW a la salida con intermodulacion 30dB menor.",
+        "opciones": [
+            "El PI3 a la salida es 30dBm",
+            "El PI3 a la salida es 31dBm",
+            "El PI3 a la salida es 40dBm",
+            "El PI3 a la salida es 46dBm"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En un sistema canalizado con un numero N elevado de portadoras, la relacion de portadora a ruido de intermodulacion...",
+        "opciones": [
+            "Es proporcional al numero de canales.",
+            "Es fundamentalmente proporcional al cuadrado de la relacion entre el punto de intermodulacion de tercer orden y la potencia total de la señal.",
+            "No depende de la potencia total de la señal.",
+            "Es proporcional al cuadrado de la potencia de cada portadora."
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Si el ruido de fase de un oscilador a 100Hz es igual a -80dBc/Hz, significa que:",
+        "opciones": [
+            "La potencia de ruido en 1Hz de banda a 100Hz de la portadora es 80dB menor que la potencia de salida.",
+            "La relacion señal a ruido medida en una banda de 100Hz es 80dB.",
+            "La delta f del ruido de FM, para una fm=100Hz es 80dB menor que la frecuencia portadora.",
+            "La potencia de ruido en una banda de 100Hz alrededor de la portadora es 80dB menor que la potencia de salida."
+        ],
+        "solucion": "0",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "¿Cuando consideramos que un oscilador es de alto factor de calidad?",
+        "opciones": [
+            "Cuando el rendimiento en potencia es superior al 90%.",
+            "Cuando la frecuencia Flicker es inferior a f0/2Q.",
+            "Cuando f0/2Q es inferior a la frecuencia Flicker.",
+            "Cuando el factor de calidad es superior a 1000."
+        ],
+        "solucion": "2",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Si la estabilidad de un oscilador de 3GHz y 2W es de 2ppm/ºC, al variar la temperatura de -20 a +50ºC,",
+        "opciones": [
+            "La frecuencia cambia en 420 Hz.",
+            "La potencia a la salida cambia en 0.4microW.",
+            "No cambia la potencia ni la frecuencia, solo el ruido de fase.",
+            "La frecuencia cambia en 0.42MHz."
+        ],
+        "solucion": "3",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Un PLL (Lazo Enganchado en Fase) es un circuito realimentado que permite obtener una señal a su salida que...",
+        "opciones": [
+            "Tiene la misma modulacion que la señal de entrada pero a otra frecuencia portadora.",
+            "Sigue todas las variaciones de amplitud de la señal de entrada pero no las de fase.",
+            "Sigue las variaciones lentas de fase de la entrada, contenidas en una banda equivalente paso bajo.",
+            "Sigue las variaciones rapidas de fase de la entrada, contenidas en una banda equivalente paso alto."
+        ],
+        "solucion": "2",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "La señal de entrada a un sintetizador de frecuencia con PLL y divisor programable es 5kHz,",
+        "opciones": [
+            "La frecuencia de salida puede variarse de forma continua en un margen de 10kHz.",
+            "La frecuencia de salida es siempre 5kHz.",
+            "La frecuencia de salida es multiplo de 5kHz.",
+            "La frecuencia de salida se puede variar de forma continua en una banda de 5kHz."
+        ],
+        "solucion": "2",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "La ganancia de conversion de un mezclador se mide como el cociente de potencias de ....",
+        "opciones": [
+            "La potencia de salida en FI dividida entre la potencia de entrada en RF.",
+            "La potencia de salida en FI dividida entre la suma de las potencias de entrada.",
+            "La potencia de salida en FI dividida entre la potencia de LO.",
+            "La potencia total de salida en todas entre señales armonicas dividida por la potencia total de entrada de RF y LO."
+        ],
+        "solucion": "0",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Cuando eliminamos el filtro de rechazo de la banda imagen en un receptor superheterodino, aumenta el ruido por:",
+        "opciones": [
+            "Se multiplica por dos solo la contribucion del ruido de antena.",
+            "Se multiplica por dos solo la contribucion al ruido del amplificador de RF.",
+            "Se multiplica por dos solo la contribucion al ruido del conversor.",
+            "Se multiplica por dos la contribucion al ruido de antena y amplificador de RF."
+        ],
+        "solucion": "3",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Un mezclador equilibrado mejora, respecto de un mezclador simple, las siguientes caracteristicas:",
+        "opciones": [
+            "Reduce las perdidas de conversion en 3dB.",
+            "Permite reducir la potencia de oscilador local necesaria.",
+            "Elimina el ruido del mezclador en la banda imagen.",
+            "Aumenta el aislamiento entre las puertas de LO y FI"
+        ],
+        "solucion": "3",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En una modulacion de Banda Lateral unica (BLU) por filtrado, la pendiente del filtro viene definida fundamentalmente por:",
+        "opciones": [
+            "La frecuencia caracteristica de emision y a la frecuencia mas baja de la banda base de modulacion.",
+            "La frecuencia mas baja de la banda base de modulacion.",
+            "La frecuencia caracteristica de modulacion y a la frecuencia mas baja de la banda base.",
+            "La frecuencia central de la banda base de modulacion."
+        ],
+        "solucion": "2",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En un modulador de FM mediante un Oscilador Controlado por Tension (VCO) y estabilizado con un PLL, la funcion de transferencia del PLL debe tener una banda...",
+        "opciones": [
+            "Mayor que la maxima frecuencia de modulacion.",
+            "Menor que la minima frecuencia de modulacion.",
+            "Mayor que la minima frecuencia de modulacion.",
+            "Menor que la maxima frecuencia de modulacion."
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En un detector de FM mediante un lazo PLL, la puerta de entrada corresponde a la de señal de referencia y la de salida se toma en:",
+        "opciones": [
+            "La entrada del detector de fase.",
+            "La salida del detector de fase.",
+            "La entrada del VCO.",
+            "La salida del VCO."
+        ],
+        "solucion": "2",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En un detector de FM mediante un lazo PLL, el error de fase en el detector de fase se calcula como:",
+        "opciones": [
+            "la desviacion de fase de la portadora modulada a la maxima frecuencia de modulacion",
+            "la desviacion de fase de la portadora modulada a la minima frecuencia de modulacion",
+            "la desviacion de fase de la portadora multiplicada por la funcion de transferencia de fase.",
+            "la desviacion de fase de la portadora multiplicada por la funcion de transferencia de error"
+        ],
+        "solucion": "3",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Indicar cual de las afirmaciones siguientes es falsa con relacion a un receptor superheterodino.",
+        "opciones": [
+            "La FI no puede coincidir con la frecuencia de RF.",
+            "La relacion entre la FI y la banda de paso no debe ser mucho mayor que 100.",
+            "La frecuencia intermedia tiene que tomar un valor normalizado inferior a 100MHz.",
+            "La relacion de la frecuencia de RF y la FI debe ser tal que permita el filtrado de la banda imagen."
+        ],
+        "solucion": "2",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "¿Que se entiende por 'penetracion en la banda imagen' referida a un receptor superheterodino?",
+        "opciones": [
+            "Es la relacion entre las frecuencias de una señal interferente en la banda imagen y la señal deseada, que generan la misma FI.",
+            "Es la relacion entre la potencia generada en la banda imagen a la entrada del detector y la potencia minima de señal en el detector.",
+            "Es la relacion de las potencias de entrada en las bandas imagen y de señal que dan la misma potencia en el detector.",
+            "Es la relacion entre la potencia de una señal interferente en la banda imagen que satura el receptor y la potencia entregada en el detector."
+        ],
+        "solucion": "2",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En un transmisor heterodino la pendiente de las bandas laterales de su espectro de emision se controla con:",
+        "opciones": [
+            "La pendiente del filtro de RF",
+            "La pendiente del filtro de banda base.",
+            "Con el equilibrado del modulador.",
+            "Con el ancho de banda de ruido de fase del oscilador."
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En un transmisor heterodino de FM el nivel de armonicos se controla...:",
+        "opciones": [
+            "Con el filtro de salida de RF y los asociados a los amplificadores clase C",
+            "Con el filtro de banda base.",
+            "Controlando el nivel de potencia en los amplificadores de potencia clase C.",
+            "Controlando el nivel de potencia en banda base."
+        ],
+        "solucion": "0",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Tiene que diseñar un receptor que debe recibir señales entre 150 y 160 MHz con 25 kHz de ancho de banda: ¿Que frecuencia intermedia escogeria?",
+        "opciones": [
+            "455 kHz",
+            "1.7 MHz",
+            "10.7 MHz",
+            "30 MHz"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "La distorsion lineal de fase...",
+        "opciones": [
+            "Se da si el tiempo de retardo es constante en la banda de trabajo.",
+            "Aparece cuando la respuesta de fase no es lineal en la banda de trabajo.",
+            "Se produce cuando algun componente activo trabaja cerca de la saturacion.",
+            "Todas las respuestas son correctas."
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Considere un amplificador cuyo punto de compresion a 1 dB a la salida es P1dB = 20 dBm. Si cuando introducimos una señal a la entrada del amplificador de 5 dBm se obtiene a la salida una potencia igual al P1dB, entonces la ganancia en regimen lineal del amplificador sera...",
+        "opciones": [
+            "15 dB.",
+            "16 dB.",
+            "20 dB.",
+            "21 dB."
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Considere un amplificador de potencia que trabaja lejos de la saturacion. Al introducir una señal a la entrada formada por dos tonos se genera una distorsion no lineal, de forma que a la salida aparecen los dos tonos, armonicos y productos de intermodulacion. Si la potencia de entrada aumenta, tal que la potencia de la señal de salida formada por los dos tonos aumenta 2 dB...",
+        "opciones": [
+            "La potencia de los productos de intermodulacion de orden 2 se incrementa en 4 dB.",
+            "La potencia de los productos de intermodulacion de orden 3 se multiplica por 6.",
+            "La potencia de los productos de intermodulacion de orden 3 se incrementa en 10log10(6) dB.",
+            "La potencia de los productos de intermodulacion de orden 2 se multiplica por 4."
+        ],
+        "solucion": "0",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "La figura de ruido de un atenuador cuya temperatura fisica es igual a la de referencia ...",
+        "opciones": [
+            "Es nula.",
+            "Es igual a su ganancia.",
+            "Es igual a su atenuacion.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "solucion": "2",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "En general, el tipo de mezclador que se implementa con un mayor numero de elementos no lineales es...",
+        "opciones": [
+            "Mezclador simple.",
+            "Mezclador equilibrado.",
+            "Mezclador doblemente equilibrado.",
+            "Depende de frecuencia de funcionamiento del mezclador."
+        ],
+        "solucion": "2",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "En las señales moduladas en BLU...",
+        "opciones": [
+            "La envolvente es replica de la señal moduladora.",
+            "Se envian las dos bandas laterales del espectro de AM, pero eliminando la portadora.",
+            "La fase de la señal modulada cambia en funcion de la señal moduladora.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "solucion": "3",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Los osciladores que presentan un mayor factor de calidad y una mayor estabilidad son los basados en...",
+        "opciones": [
+            "Circuitos LC.",
+            "Diodos varactores.",
+            "Cavidades dielectricas.",
+            "Cristales de cuarzo."
+        ],
+        "solucion": "3",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "El ruido de fase de un oscilador...",
+        "opciones": [
+            "Depende del factor de calidad del circuito resonante.",
+            "Provoca que el espectro de la señal de oscilacion se ensanche.",
+            "Es el resultado de una modulacion parasita de fase sobre la portadora.",
+            "Todas las respuestas son correctas."
+        ],
+        "solucion": "3",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "El tipo de PLL que es capaz de mantener el enganche ante un escalon de frecuencia con un error de fase nulo es...",
+        "opciones": [
+            "PLL de orden 1.",
+            "PLL de orden 2 tipo 1.",
+            "PLL de orden 2 tipo 2.",
+            "Todas las respuestas son correctas."
+        ],
+        "solucion": "2",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "La ventaja de los sintetizadores de doble modulo respecto a los sintetizadores programables con prescaler es que...",
+        "opciones": [
+            "Permiten reducir el numero de componentes necesarios para implementar el sintetizador.",
+            "El paso del sintetizador es mayor, lo cual permite sintetizar frecuencias muy superiores a la salida.",
+            "Permiten utilizar frecuencias de referencia mayores, lo cual permite reducir la complejidad del filtro del PLL.",
+            "Todas las respuestas son correctas."
+        ],
+        "solucion": "2",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Para implementar un modulador PM con PLL, la señal moduladora se debe inyectar a...",
+        "opciones": [
+            "La entrada del detector de fase.",
+            "La rama de realimentacion del PLL.",
+            "La entrada del VCO.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "solucion": "3",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Para implementar un demodulador FM con PLL, la señal moduladora se debe extraer de...",
+        "opciones": [
+            "La entrada del detector de fase.",
+            "La rama de realimentacion del PLL.",
+            "La entrada del VCO.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "solucion": "2",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Seleccione la afirmacion correcta respecto al comportamiento de los amplificadores de potencia:",
+        "opciones": [
+            "Si el amplificador es de clase C, el rendimiento sera mayor que si el amplificador es de clase A.",
+            "Si el amplificador es de clase B, el rendimiento sera maximo cuando la potencia de la señal de salida sea un 40% de la potencia maxima.",
+            "Si el amplificador es de clase A, la potencia de la señal de RF y la potencia de consumo seran practicamente iguales.",
+            "Todas las respuestas son correctas."
+        ],
+        "solucion": "0",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Considere un amplificador clase A que esta consumiendo 5W cuando se introduce una señal de RF a la entrada. Sabiendo que el amplificador incluye un disipador de potencia donde se disipan 4W, calcule su rendimiento.",
+        "opciones": [
+            "20%.",
+            "25%.",
+            "50%.",
+            "80%."
+        ],
+        "solucion": "0",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Si desea obtener un filtro con la caida mas abrupta posible en la banda de transicion, el tipo de filtro que debera implementar es...",
+        "opciones": [
+            "Butterworth.",
+            "Chebyshev.",
+            "Chebyshev inverso.",
+            "Eliptico."
+        ],
+        "solucion": "3",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Se desea diseñar un receptor superheterodino donde se reciben señales de RF en la banda de 550-600 MHz. Sabiendo que la frecuencia intermedia es 70 MHz y que se utiliza OL inferior, calcule la banda imagen.",
+        "opciones": [
+            "480-530 MHz.",
+            "410-460 MHz.",
+            "690-740 MHz.",
+            "620-670 MHz."
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "La caracteristica principal de un transmisor homodino respecto a un transmisor heterodino es que...",
+        "opciones": [
+            "Incluye una etapa de frecuencia intermedia que permite obtener alta ganancia y hacer un filtrado mas sencillo.",
+            "No se realiza la mezcla de frecuencia para pasar la señal en banda base a una frecuencia intermedia.",
+            "La señal se amplifica en dos etapas de diferente frecuencia, lo que permite repartir la ganancia y obtener una mayor estabilidad.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Por definicion, un amplificador multietapa de sintonia fija ...",
+        "opciones": [
+            "Esta formado por varias etapas amplificadoras en cascada sintonizadas a la misma frecuencia central.",
+            "Mejora el rizado en banda del amplificador, ya que cada etapa se sintoniza a la misma frecuencia.",
+            "Permite aumentar el ancho de banda del amplificador, ya que cada etapa esta sintonizada a una frecuencia ligeramente desplazada.",
+            "Esta formado por varias etapas amplificadoras en paralelo, lo que permite obtener una banda ultra ancha."
+        ],
+        "solucion": "0",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "¿Que se entiende por 'bloqueo de un receptor'?",
+        "opciones": [
+            "La modulacion de señales por una interferencia de muy alto nivel.",
+            "La perdida de sintonia por derivas de la frecuencia del oscilador local.",
+            "La perdida de ganancia por saturacion debida a interferencias.",
+            "La reduccion de ganancia que permite aumentar el margen dinamico."
+        ],
+        "solucion": "2",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Considere una cadena receptora que incluye un modulo de control automatico de ganancia (CAG). El margen dinamico del receptor es 55 dB mientras que el margen dinamico del detector es 20 dB. Si la ganancia del receptor es 50 dB, calcule la ganancia minima del receptor cuando actue el CAG.",
+        "opciones": [
+            "5 dB.",
+            "15 dB.",
+            "30 dB.",
+            "35 dB."
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "La distorsion lineal de fase...",
+        "opciones": [
+            "Se da si el tiempo de retardo no es constante en la banda de trabajo.",
+            "Aparece cuando la respuesta de fase no es lineal en la banda de trabajo.",
+            "Se puede compensar en parte mediante una predistorsion.",
+            "Todas las anteriores son correctas."
+        ],
+        "solucion": "3",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Considere un amplificador de potencia con PI3 = 89.5 W. Al introducir una señal a la entrada formada por dos tonos se genera una distorsion no lineal, de forma que se produce a la salida una potencia en cada tono de 100 mW. La potencia de los productos de intermodulacion de orden 3 sera...",
+        "opciones": [
+            "- 30 dBm.",
+            "267.8 W.",
+            "- 60 dBm.",
+            "-102.5 dBm."
+        ],
+        "solucion": "0",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Seleccione la afirmacion correcta respecto al punto de compresion a 1 dB (P1dB):",
+        "opciones": [
+            "Si la potencia de salida del dispositivo es P1dB, la ganancia del mismo se ha reducido 1 dB.",
+            "Un dispositivo no es capaz de proporcionar a la salida una potencia mayor al P1dB.",
+            "El P1dB unicamente se puede definir a la salida del dispositivo, no a la entrada.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "solucion": "0",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "La figura de ruido de un dispositivo...",
+        "opciones": [
+            "Es igual al factor de atenuacion del dispositivo.",
+            "Se define como la relacion entre la potencia de ruido a la salida y a la entrada del dispositivo, inyectando ruido a la entrada con un generador a temperatura T0 = 290K.",
+            "Es igual a la degradacion de la relacion señal a ruido entre la entrada y la salida del dispositivo, cuando el generador de ruido a la entrada tiene una temperatura equivalente de T0 = 290K.",
+            "Todas las anteriores son correctas."
+        ],
+        "solucion": "2",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Un mezclador equilibrado se caracteriza porque...",
+        "opciones": [
+            "Elimina los armonicos pares de la señal.",
+            "Elimina los armonicos del oscilador local.",
+            "Elimina la señal del oscilador local.",
+            "Todas las anteriores son correctas."
+        ],
+        "solucion": "3",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "¿Que tipo de modulacion de amplitud se caracteriza porque la envolvente de la señal modulada es replica de la señal moduladora?",
+        "opciones": [
+            "AM.",
+            "DBL.",
+            "BLU.",
+            "Todas las anteriores son correctas."
+        ],
+        "solucion": "0",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "El 'pushing' de un oscilador hace referencia a las variaciones de la frecuencia de oscilacion con...",
+        "opciones": [
+            "El ruido de fase.",
+            "La temperatura.",
+            "La impedancia de carga.",
+            "La tension de alimentacion."
+        ],
+        "solucion": "3",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "El ruido de fase de un oscilador...",
+        "opciones": [
+            "Es superior en osciladores de bajo factor de calidad, como los formados por cristales de cuarzo.",
+            "Se puede cuantificar mediante la funcion de Leeson.",
+            "Es el resultado de una modulacion parasita de la amplitud.",
+            "Todas las anteriores son correctas."
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Para implementar un circuito recuperador de portadora mediante PLL para una señal modulada en fase se debe cumplir que...",
+        "opciones": [
+            "El PLL sea de orden 2 tipo 2.",
+            "La frecuencia de la señal modulada sea mucho mayor que la pulsacion propia del PLL.",
+            "La desviacion maxima de fase a la entrada del PLL sea menor que a la salida.",
+            "Todas las anteriores son correctas."
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Si en el diseño de un PLL necesito incluir un detector de fase que no produzca interferencias a la frecuencia de referencia y que me proporcione el mayor margen lineal posible debo seleccionar...",
+        "opciones": [
+            "Detector analogico.",
+            "Detector de onda cuadrada.",
+            "Detector biestable J-K.",
+            "Detector fase-frecuencia."
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "El indice de modulacion de una señal modulada en fase es igual a...",
+        "opciones": [
+            "La desviacion maxima de fase.",
+            "La desviacion maxima de frecuencia.",
+            "La desviacion maxima de frecuencia mas la frecuencia maxima de la señal original.",
+            "El indice de modulacion solo se define para las modulaciones AM."
+        ],
+        "solucion": "0",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Para implementar un modulador de fase con PLL es necesario...",
+        "opciones": [
+            "Introducir la señal moduladora a la salida del detector de fase y que su frecuencia minima sea mayor que la frecuencia propia del PLL.",
+            "Introducir la señal moduladora a la salida del detector de fase y que su frecuencia maxima sea mayor que la frecuencia propia del PLL.",
+            "Introducir la señal moduladora a la entrada del VCO y que su frecuencia minima sea mayor que la frecuencia propia del PLL.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "solucion": "3",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Si se desea implementar un detector FM por linea de retardo a una frecuencia de 3 GHz, la longitud de la linea de retardo deberia ser...",
+        "opciones": [
+            "25 mm.",
+            "75 mm.",
+            "175 mm.",
+            "Todas las anteriores son correctas."
+        ],
+        "solucion": "3",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "En un amplificador multietapa formado por varias etapas amplificadoras en cascada se puede...",
+        "opciones": [
+            "Incrementar la ganancia maxima del amplificador a costa de estrechar el ancho de banda si se aumenta el factor de calidad de todas las etapas.",
+            "Mejorar el rizado en banda del amplificador si cada etapa se sintoniza a la misma frecuencia.",
+            "Aumentar el ancho de banda del amplificador si cada etapa se sintoniza a una frecuencia ligeramente desplazada.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "solucion": "2",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Seleccione la afirmacion correcta respecto al comportamiento de los amplificadores de potencia:",
+        "opciones": [
+            "Si el amplificador es de clase C, la ganancia de tension sera mayor que si el amplificador es de clase A.",
+            "Si el amplificador es de clase D, la linealidad sera muy buena puesto que el componente activo solo trabaja en corte o en saturacion.",
+            "Si el amplificador es de clase A, la potencia disipada sera maxima cuando no hay señal a la entrada.",
+            "Si el amplificador es de clase B, el rendimiento sera maximo cuando la potencia de la señal de salida sea un 40% de la potencia maxima."
+        ],
+        "solucion": "2",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Para sintetizar un filtro de banda eliminada a partir de un filtro paso bajo normalizado debe saber que...",
+        "opciones": [
+            "Las L serie se transforman en C paralelo mientras que las C paralelo se transforman en L serie.",
+            "Las L paralelo se transforman en asociaciones LC paralelo mientras que las C serie se transforman en asociaciones LC serie.",
+            "Las L serie se transforman en asociaciones LC paralelo mientras que las C paralelo se transforman en asociaciones LC serie.",
+            "Las L serie se transforman en asociaciones LC serie mientras que las C paralelo se transforman en asociaciones LC paralelo."
+        ],
+        "solucion": "2",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Considere un transmisor heterodino cuya frecuencia intermedia es 70 MHz y cuya frecuencia de señal es 1500 MHz. A la salida del conversor de frecuencia...",
+        "opciones": [
+            "La mezcla espuria sera el batido suma si se utiliza oscilador local inferior.",
+            "La mezcla deseada sera el batido diferencia si se utiliza oscilador local superior.",
+            "La mezcla espuria estara situada en 1570 MHz si se utiliza oscilador local superior.",
+            "Todas las respuestas son correctas."
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "El parametro G/T se calcula como la division entre...",
+        "opciones": [
+            "Ganancia de antena y temperatura de ruido del receptor.",
+            "Ganancia del receptor y temperatura de ruido total equivalente a la entrada.",
+            "Ganancia de antena y temperatura de ruido de antena.",
+            "Ganancia de antena y temperatura de ruido total equivalente a la entrada."
+        ],
+        "solucion": "3",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Considere un receptor superheterodino cuya sensibilidad limitada por ganancia es -92.5 dBm y cuya sensibilidad limitada por ruido es -93.8 dBm. Si el margen dinamico del receptor es 59 dB, tiene una ganancia de 75 dB y el margen dinamico del demodulador es 26 dB, calcule la potencia maxima de funcionamiento del demodulador.",
+        "opciones": [
+            "75.5 dBm.",
+            "7.2 dBm.",
+            "-7.2 dBm.",
+            "8.5 dBm."
+        ],
+        "solucion": "3",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Si a la salida de un transmisor se desean obtener niveles de potencia media superiores a los cientos de kW se debe trabajar con...",
+        "opciones": [
+            "Amplificadores formados por tubos de vacio y por debajo de la banda de HF.",
+            "Amplificadores formados por transistores bipolares y por debajo de la banda de HF.",
+            "Amplificadores formados por tubos de vacio en la banda de la milimetricas.",
+            "Amplificadores formados por transistores de efecto campo en la banda de la milimetricas."
+        ],
+        "solucion": "0",
+        "examen": "2021jun"
+    }
+]
