@@ -1,5 +1,5 @@
 # Examenes test ECOM
-Sofware desarrollado para practicar examenes de años anteriores de ECOM
+Sofware desarrollado para practicar examenes de años anteriores de DORE
 
 Preview: 
 

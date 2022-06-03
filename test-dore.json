@@ -1,0 +1,542 @@
+[
+    {
+        "pregunta": "En 2016, aunque la facturacion global del sector de las telecomunicaciones y el audiovisual aumento respecto a 2015, los ingresos por servicios finales disminuyeron el 0,1% y esto a pesar del notable crecimiento de los ingresos de banda ancha fija y banda ancha movil, que crecieron respectivamente un 10,2% y un 5,9%.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Durante 2016 continuo aumentando el grado de empaquetamiento de servicios, con la television de pago como servicio mas destacado. Los paquetes quintuples experimentaron un ano mas el crecimiento mas significativo, con 1,2 millones de nuevas contrataciones y superando por primera vez a los cuadruples que apenas crecieron.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Durante 2016 hubo un mayor despliegue de redes de nueva generacion (NGA), incorporandose casi 9 millones de accesos nuevos, gracias a los cuales la cifra total de accesos NGA instalados a finales de 2016 supero los 42 millones. No obstante, la demanda de los usuarios fue mucho menor y los accesos NGA en servicio apenas crecieron en unos 2 millones, totalizando unos 8 millones de accesos NGA en servicio a finales de 2016.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Cuando para un atributo de un servicio se define un SLO (Service Level Objective) en lugar de un SLA (Service Level Agreement) es porque se exige un mayor nivel de servicio y por tanto lleva asociada una mayor penalizacion.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "La diferencia entre el dinero exigido y el dinero reportado en un mismo ano recibe el nombre de flujo de caja, y se calcula como la diferencia entre ingresos y gastos.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Si el Valor Actual Neto (VAN) de un proyecto de creacion de un operador de telecomunicaciones es cero, entonces el proyecto solo es capaz de generar fondos suficientes para devolver a los inversores (accionistas y bancos) las cantidades iniciales que aportaron, sin rentabilidad adicional alguna.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "Cuando la TIR resulte ser inferior a la tasa de descuento entonces el valor del VAN sera negativo, lo que significa que el excedente generado es nulo y que las rentabilidades que obtienen los inversores por sus aportaciones estan por debajo de lo minimo exigido.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "La Agenda Digital para Espana, aprobada en Diciembre 2012, fomenta la inversion eficiente en redes ultrarrapidas y establece las bases para alcanzar los objetivos europeos de banda ancha para 2020 (100% poblacion con cobertura de 30Mbps y 50% hogares conectados a 100Mbps).\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "NEBA (Nuevo servicio Ethernet de Banda Ancha) es un servicio mayorista de banda ancha de acceso indirecto con entrega provincial que Telefonica ofrece en todo el territorio nacional y solo sobre accesos de cobre con tecnologia ADSL2+/POTS, VDSL2 o FTTH.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "NEBA local es un nuevo servicio mayorista de banda ancha de acceso virtual a la red de fibra optica de Telefonica, disponible en todos los municipios mediante la interconexion en las centrales cabecera de la operadora y que permitira a los operadores alternativos ofrecer a sus clientes la velocidad maxima que ofrezca Telefonica (actualmente 300 Mbps simetricos).",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2018jun"
+    },
+    {
+        "pregunta": "A finales de 2017 las lineas activas de banda ancha basadas en FTTH representaron el 38,7% del mercado y no consiguieron superar por primera vez a las lineas activas basadas en xDSL que a pesar de disminuir 10 puntos porcentuales mantuvieron una cuota del 42,5% del mercado.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "El total de accesos NGA instalados a finales de 2017 supero la cifra de 48,7 millones, pero los accesos NGA activos no llegaron a los 9,4 millones (aprox. 1 de cada 5) y ello a pesar de que los operadores fueron muy agresivos en la comercializacion de paquetes con television de pago.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Durante el ano 2017 el grado de empaquetamiento de los servicios siguio creciendo, debido especialmente al crecimiento de los paquetes con television de pago, donde destaco el paquete quintuple que aumento en 700.000 unidades y supero por primera vez al paquete cuadruple que se mantiene estancado durante los ultimos anos.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Dentro de los operadores que ofrecieron durante 2017 el paquete cuadruple-play destaca Orange que consiguio obtener una cuota cercana al 45%, cuadriplicando la cuota que obtuvo en el paquete quintupleplay, donde apenas llego al 11%, aproximadamente la mitad de la cuota que consiguio Vodafone.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Cuando para un atributo de un servicio se define un SLO (Service Level Objective) en lugar de un SLA (Service Level Agreement) es porque se exige un mayor nivel de servicio y por tanto lleva asociada una mayor penalizacion.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "La unica desviacion que existe entre el flujo de caja y el beneficio de un operador es la amortizacion de las inversiones.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "La diferencia entre el dinero exigido y el dinero reportado en un mismo ano recibe el nombre de flujo de caja, y se calcula como la diferencia entre ingresos y gastos.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "La Tasa Interna de Retorno (TIR) mide lo que por termino medio renta la inversion cada ano y por cada unidad monetaria invertida y depende mucho del criterio empleado para calcular el valor residual y de la tasa de descuento utilizada.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Si el Valor Actual Neto (VAN) de un proyecto de creacion de un operador de telecomunicaciones es cero, entonces el proyecto solo es capaz de generar fondos suficientes para devolver a los inversores (accionistas y bancos) las cantidades iniciales que aportaron, sin rentabilidad adicional alguna.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Cuando la TIR resulte ser inferior a la tasa de descuento entonces el valor del VAN sera negativo, lo que significa que el excedente generado es nulo y que las rentabilidades que obtienen los inversores por sus aportaciones estan por debajo de lo minimo exigido.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "NEBA es un servicio mayorista de banda ancha de acceso indirecto que Telefonica solo ofrece sobre accesos de cobre con tecnologia ADSL2+ o VDSL2. \n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "En el acceso indirecto residencial, y para la zona competitiva (758 centrales), la CNMC ha dictaminado que Telefonica no esta obligada a mantener, mas alla de un plazo de 6 meses, la oferta mayorista NEBA para la red de cobre y de fibra.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "En el acceso indirecto residencial, y para todas las zonas no competitivas, la CNMC obliga a Telefonica a mantener la oferta mayorista NEBA para la red de cobre y de fibra, eliminando en esta ultima el limite de los 30Mbps.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "En el acceso directo, y para todo el territorio nacional, la CNMC obliga a Telefonica a prestar un nuevo servicio mayorista de acceso virtual a la red de fibra optica de Telefonica desde la central de cabecera, conocido como NEBA local.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "El servicio NEBA local reemplaza al servicio de desagregacion del bucle de cobre recogido en la OBA y ofrecera a los operadores alternativos la misma velocidad maxima que ofrece Telefonica a sus clientes minoristas (actualmente 600 Mbps).",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jul"
+    },
+    {
+        "pregunta": "Durante el ano 2017 el grado de empaquetamiento de los servicios siguio creciendo, debido especialmente al crecimiento de los paquetes con television de pago, donde destaco el paquete quintuple que aumento en 700.000 unidades y supero por primera vez al paquete cuadruple que se mantiene estancado durante los ultimos anos.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Dentro de los operadores que ofrecieron durante 2017 el paquete cuadruple-play destaca Orange que consiguio obtener una cuota cercana al 45%, cuadriplicando la cuota que obtuvo en el paquete quintupleplay, donde apenas llego al 11%, aproximadamente la mitad de la cuota que consiguio Vodafone.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "A finales de 2017 las lineas activas de banda ancha basadas en FTTH representaron el 38,7% del mercado y no consiguieron superar por primera vez a las lineas activas basadas en xDSL que a pesar de disminuir 10 puntos porcentuales mantuvieron una cuota del 42,5% del mercado.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "El total de accesos NGA instalados a finales de 2017 supero la cifra de 48,7 millones, pero los accesos NGA activos no llegaron a los 9,4 millones (aprox. 1 de cada 5) y ello a pesar de que los operadores fueron muy agresivos en la comercializacion de paquetes con television de pago.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Cuando para un atributo de un servicio se define un SLO (Service Level Objective) en lugar de un SLA (Service Level Agreement) es porque se exige un mayor nivel de servicio y por tanto lleva asociada una mayor penalizacion.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "La diferencia entre el dinero exigido y el dinero reportado en un mismo ano recibe el nombre de flujo de caja, y se calcula como la diferencia entre ingresos y gastos.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "La unica desviacion que existe entre el flujo de caja y el beneficio de un operador es la amortizacion de las inversiones.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Si el Valor Actual Neto (VAN) de un proyecto de creacion de un operador de telecomunicaciones es cero, entonces el proyecto solo es capaz de generar fondos suficientes para devolver a los inversores (accionistas y bancos) las cantidades iniciales que aportaron, sin rentabilidad adicional alguna.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "La Tasa Interna de Retorno (TIR) mide lo que por termino medio renta la inversion cada ano y por cada unidad monetaria invertida y depende mucho del criterio empleado para calcular el valor residual y de la tasa de descuento utilizada.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Cuando la TIR resulte ser inferior a la tasa de descuento entonces el valor del VAN sera negativo, lo que significa que el excedente generado es nulo y que las rentabilidades que obtienen los inversores por sus aportaciones estan por debajo de lo minimo exigido.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "NEBA es un servicio mayorista de banda ancha de acceso indirecto que Telefonica solo ofrece sobre accesos de cobre con tecnologia ADSL2+ o VDSL2.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En el acceso directo, y para todo el territorio nacional, la CNMC obliga a Telefonica a prestar un nuevo servicio mayorista de acceso virtual a la red de fibra optica de Telefonica desde la central de cabecera, conocido como NEBA local.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "El servicio NEBA local reemplaza al servicio de desagregacion del bucle de cobre recogido en la OBA y ofrecera a los operadores alternativos la misma velocidad maxima que ofrece Telefonica a sus clientes minoristas (actualmente 600 Mbps).\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En el acceso indirecto residencial, y para la zona competitiva (758 centrales), la CNMC ha dictaminado que Telefonica no esta obligada a mantener, mas alla de un plazo de 6 meses, la oferta mayorista NEBA para la red de cobre y de fibra.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "En el acceso indirecto residencial, y para todas las zonas no competitivas, la CNMC obliga a Telefonica a mantener la oferta mayorista NEBA para la red de cobre y de fibra, eliminando en esta ultima el limite de los 30Mbps.",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2019jun"
+    },
+    {
+        "pregunta": "Cuando para un atributo de un servicio se define un SLO (Service Level Objective) en lugar de un SLA (Service Level Agreement) es porque se exige un mayor nivel de servicio y por tanto lleva asociada una mayor penalizacion.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Los servicios OTT (Over the Top) se clasifican en dos grandes grupos: OTT Communications (servicios relacionados con las comunicaciones de voz, texto y video sobre internet) y OTT Media (servicios relacionados con la transmision y/o descarga de contenidos de audio y video sobre internet).\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Los servicios OTT no requieren que el proveedor disponga de una licencia habilitante, y por ello los proveedores OTT no estan obligados a contribuir al servicio universal, pero si al control de los contenidos que proporcionan.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "La diferencia entre el dinero exigido y el dinero reportado en un mismo ano recibe el nombre de flujo de caja, y se calcula como la diferencia entre ingresos y gastos.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Si el Valor Actual Neto (VAN) de un proyecto de creacion de un operador de telecomunicaciones es cero, entonces el proyecto solo es capaz de generar fondos suficientes para devolver a los inversores (accionistas y bancos) las cantidades iniciales que aportaron, sin rentabilidad adicional alguna.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Cuando la TIR resulta ser inferior a la tasa de descuento entonces el valor del VAN sera negativo, lo que significa que el excedente generado es nulo y que las rentabilidades que obtienen los inversores por sus aportaciones estan por debajo de lo minimo exigido.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Aunque al principio la regulacion de mercados de telecomunicacion afectaba a mercados mayoristas y minoristas, este enfoque se abandono rapidamente y asi la regulacion actualmente vigente (2014), solo contempla cuatro mercados mayoristas sujetos a regulacion \u201cex ante\u201d.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "NEBA (Nuevo servicio Ethernet de Banda Ancha) es un servicio mayorista de banda ancha de acceso indirecto con entrega provincial que Telefonica ofrece en todo el territorio nacional y sobre accesos de cobre con tecnologia ADSL2+/VDSL2 o fibra con tecnologia GPON (FTTH).\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "NEBA local es un servicio mayorista de banda ancha de acceso virtual a la red de fibra optica de Telefonica, disponible en todos los municipios espanoles mediante la interconexion en las centrales cabecera de la operadora y que permite a los operadores alternativos ofrecer a sus clientes la velocidad maxima que ofrezca Telefonica a los suyos.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "La diferencia entre NEBA local y NEBA sobre FTTH (NEBA fibra) es la cercania al cliente final. El NEBA local se presta en las centrales locales cabecera de la red de fibra, mientras que el punto de conexion del servicio NEBA fibra esta mas lejo del cliente (hay un punto de conexion por provincia).",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2021jul"
+    },
+    {
+        "pregunta": "Cuando para un atributo de un servicio se define un SLO (Service Level Objective) en lugar de un SLA (Service Level Agreement) es porque se exige un mayor nivel de servicio y por tanto lleva asociada una mayor penalizacion.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Los servicios OTT (Over the Top) se clasifican en dos grandes grupos: OTT Communications (servicios relacionados con las comunicaciones de voz, texto y video sobre internet) y OTT Media (servicios relacionados con la transmision y/o descarga de contenidos de audio y video sobre internet).\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Los servicios OTT no requieren que el proveedor disponga de una licencia habilitante, y por ello los proveedores OTT no estan obligados a contribuir al servicio universal, pero si al control de los contenidos que proporcionan.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "La diferencia entre el dinero exigido y el dinero reportado en un mismo ano recibe el nombre de flujo de caja, y se calcula como la diferencia entre ingresos y gastos.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Si el Valor Actual Neto (VAN) de un proyecto de creacion de un operador de telecomunicaciones es cero, entonces el proyecto solo es capaz de generar fondos suficientes para devolver a los inversores (accionistas y bancos) las cantidades iniciales que aportaron, sin rentabilidad adicional alguna.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Cuando la TIR resulta ser inferior a la tasa de descuento entonces el valor del VAN sera negativo, lo que significa que el excedente generado es nulo y que las rentabilidades que obtienen los inversores por sus aportaciones estan por debajo de lo minimo exigido.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "Aunque al principio la regulacion de mercados de telecomunicacion afectaba a mercados mayoristas y minoristas, este enfoque se abandono rapidamente y asi la regulacion actualmente vigente (2014), solo contempla cuatro mercados mayoristas sujetos a regulacion \u201cex ante\u201d.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "NEBA (Nuevo servicio Ethernet de Banda Ancha) es un servicio mayorista de banda ancha de acceso indirecto con entrega provincial que Telefonica ofrece en todo el territorio nacional y sobre accesos de cobre con tecnologia ADSL2+/VDSL2 o fibra con tecnologia GPON (FTTH).\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "NEBA local es un servicio mayorista de banda ancha de acceso virtual a la red de fibra optica de Telefonica, disponible en todos los municipios espanoles mediante la interconexion en las centrales cabecera de la operadora y que permite a los operadores alternativos ofrecer a sus clientes la velocidad maxima que ofrezca Telefonica a los suyos.\n",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "1",
+        "examen": "2021jun"
+    },
+    {
+        "pregunta": "La diferencia entre NEBA local y NEBA sobre FTTH (NEBA fibra) es la cercania al cliente final. El NEBA local se presta en las centrales locales cabecera de la red de fibra, mientras que el punto de conexion del servicio NEBA fibra esta mas lejo del cliente (hay un punto de conexion por provincia).",
+        "opciones": [
+            "VERDADERA PUTITA",
+            "FALSA ZORRITA"
+        ],
+        "solucion": "0",
+        "examen": "2021jun"
+    }
+]
